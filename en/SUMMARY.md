@@ -1,10 +1,10 @@
 # Summary
 
 * [Features](README.md)
-  * [Introduction](Features/introduction.md)
-  * [Power Architecture](Features/power-architecture.md)
-  * Inputs / Outputs
-* [Main devices](test.md)
+  * [Introduction](introduction.md)
+  * [Power Architecture](power-architecture.md)
+  * [Inputs / Outputs](power-architecture.md)
+* [Main devices](main devices.md)
   * Radio receiver
   * ESC / Motor
   * All In One Module
