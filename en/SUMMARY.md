@@ -1,7 +1,7 @@
 # Summary
 
 * [Features](README.md)
-  * [Introduction](introduction.md)
+  * [Introduction](Features/introduction.md)
   * [Power Architecture](power-architecture.md)
   * Inputs / Outputs
 * [Main devices](test.md)
