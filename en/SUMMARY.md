@@ -7,7 +7,7 @@
 * [MAIN DEVICES](main-devices.md)
   * [Radio receiver](main-devices/radio-receiver.md)
   * [ESC / motor](main-devices/esc-motor.md)
-  * All In One Module
+  * [All In One Module](main-devices/all-in-one-module.md)
   * [Power supply](main-devices/power-supply.md)
     * [Tiny module](main-devices/power-supply/tiny-module.md)
 * [OPTION DEVICES](option-devices.md)
