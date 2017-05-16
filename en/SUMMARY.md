@@ -5,5 +5,6 @@
   * [Power Architecture](power-architecture.md)
   * [Inputs / Outputs](inputs-outputs.md)
 * [Main devices](main-devices.md)
-  * Radio receiver
+  * [Radio receiver](main-devices/radio-receiver.md)
+  * ESC / motor
 
