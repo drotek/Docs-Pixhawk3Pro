@@ -2,7 +2,7 @@
 
 * [Features](README.md)
   * [Introduction](Features/introduction.md)
-  * [Power Architecture](en/Features/power-architecture.md)
+  * [Power Architecture](Features/power-architecture.md)
   * Inputs / Outputs
 * [Main devices](test.md)
   * Radio receiver
