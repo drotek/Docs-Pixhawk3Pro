@@ -1,6 +1,6 @@
 # Summary
 
-* [Features](README.md)
+* [FEATURES](README.md)
   * [Introduction](introduction.md)
   * [Power Architecture](power-architecture.md)
   * [Inputs / Outputs](inputs-outputs.md)
