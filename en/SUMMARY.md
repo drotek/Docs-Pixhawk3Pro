@@ -12,13 +12,13 @@
     * [Tiny module](main-devices/power-supply/tiny-module.md)
 * [OPTION DEVICES](option-devices.md)
   * [GPS](option-devices/gps.md)
-    * Mushroom GPS
-    * XL GPS
-    * XXL GPS
-    * RTK GPS
+    * [Mushroom GPS](option-devices/gps/mushroom-gps.md)
+    * [XL GPS](option-devices/gps/xl-gps.md)
+    * [XXL GPS](option-devices/gps/xxl-gps.md)
+    * [RTK GPS](option-devices/gps/rtk-gps.md)
   * [Telemetry](option-devices/telemetry.md)
-    * HM-TRP
-    * ESP8266
+    * [HM-TRP](option-devices/telemetry/hm-trp.md)
+    * [ESP8266](option-devices/telemetry/esp8266.md)
   * Airspeed
   * Rangefinders
     * Maxbotix I2C sonar
