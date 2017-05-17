@@ -1,40 +1,52 @@
 ![](https://drotek.com/wp-content/uploads/2017/01/digital-differential-airspeed-sensor-kit--700x468.jpg "airspeed drotek ardupilot")
 
-**Plane **supports the use of an airspeed sensor, which can help in windy condition, slow flight and autonomous landings. It is not recommended for most new users, however, as it does require additional tuning and adds one more layer of control to set up.
+La**Pixhawk 3 Pro**supporte l’utilisation d’un capteur de vitesse, ce qui peut aider dans des conditions venteuses, vol lent et pendant des atterrissages autonomes avec un drone à voilure fixe.
 
-The digital differential airspeed sensor has a very low offset, a high resolution and, best of all, does not suffer from the noise induced by long cables. Featuring a Measurement Specialties **4525DO **sensor, with 1 psi measurement range \(roughly up to 100 m/s or 360 km/h or 223 mp/h\), the Airspeed Sensor Kit enables a resolution of 0.84 Pa, with data delivered at 14 bits from a 24 bit delta-sigma ADC.
+Ce capteur de pression différentielle numérique a un très faible décalage, une haute résolution et ne souffre pas du bruit induit par de longs câbles.
 
-You can find more information on this [page](https://drotek.com/shop/en/drotek-parts/793-digital-differential-airspeed-sensor-kit-.html).
+Doté d'un capteur**4525DO**, avec une plage de mesure de 1 psi \(environ jusqu'à 100 m/s ou  223 mp/h\), le capteur de vitesse permet une résolution de 0,84 Pa.
+
+Vous trouverez plus d'informations sur cette[page](https://drotek.com/shop/fr/drotek-parts/793-capteur-de-vitesse.html).
+
+  
+
 
 ### HARDWARE
 
-The following sections show how to wire sensors to the flight controller.
+Connectez le capteur au port I2C de la Pixhawk. La photo ci-dessous illustre la connexion entre la Pixhawk et le capteur de vitesse:
 
-Connect the airspeed sensor to Pixhawk’s **I2C **port \(or I2C splitter module\). Using the rubber tubing, connect the longer extension on the pitot tube to the cone that protrudes from the top of the airspeed sensor board \(off the off-white, square section protrudingoffthe top of the board\), and connect the shorter extension on the pitot tube to the cone protruding from the base of the board.
+\[photo capteur vitesse + Pixhawk\]
 
-\[picture airspeed + pixhawk\]
+Placez la sonde**Pitot**comme illustré sur la photo. Assurez-vous que les trous sur le côté du tube ne soient pas couverts. Ils devraient être décalés d’au moins**1 centimètre**par rapport au fuselage. Reliez les deux tubes de caoutchouc qui sortent à l’arrière de la sonde au capteur de vitesse. Connectez la partie la plus longue du tube de Pitot  au cône du dessus du capteur de vitesse.  Faire de même avec la partie la plus courte du tube au cône du bas.
 
-When you place the **airspeed sensor **in your aircraft, use the **pitot **tube set in the kit \(the kit comes with a single tube to measure both static and total pressure\). Make sure the holes in the side of the tube are not covered. They should be at least **1 centimeter **out past the nose. Firstconnect the two tubes coming out the back to the airspeed sensor. The tube coming straight out the back should go into the top port and the tube exiting at an angle should connect to the bottom port on the airspeed sensor. Drill or cut a small hole in the foam and push it through to the front.
+Si vous utilisez un avion avec une hélice placée à l’avant, le tube Pitot doit être monté sur une aile pour être en dehors du flux de l’hélice.
 
-If you are using Plane in an aircraft with the propeller in the nose, the pitot tube must be mounted out on one wing, at least a foot from the fuselage to be outside the prop flow.
+  
+
 
 ![](https://drotek.com/wp-content/uploads/2017/01/pitotinstalled1-700x404.jpg "airspeed ardupilot px4 pixhawk")
 
+  
+
+
+  
+
+
 ### SOFTWARE \(PX4 with QGC\)
 
-No configuration is required under **QgroundControl **for the use of this sensor.
+Aucune configuration n’est nécessaire sous**QgroundControl**pour l’utilisation de ce capteur.
 
-To display in **QgroundControl **the value read by the sensor, click:![](https://drotek.com/wp-content/uploads/2017/01/Icone_Flight_Data_QGC.png "QGC px4 drotek")
+Pour afficher dans**QgroundControl**la valeur lue par le capteur cliquez sur : ![](https://drotek.com/wp-content/uploads/2017/01/Icone_Flight_Data_QGC.png "QGC px4 drotek")
 
-The widget on the right allows you to view the data from the various sensors on your **Pixhawk 3 Pro**.
+Le widget présent sur la droite permet de visualiser les données issues des différents capteurs embarqués sur votre**Pixhawk 3 Pro**.
 
 ![](https://drotek.com/wp-content/uploads/2017/01/Flight_Data_Viewer_QGC.png "qgroundcontrol px4")
 
-To view the data of interest, click on:![](https://drotek.com/wp-content/uploads/2017/01/Reglage_Flight_Data_Viewer_QGC.png "QGC px4 pixhawk")
+Pour afficher les données qui vous intéressent cliquez sur: ![](https://drotek.com/wp-content/uploads/2017/01/Reglage_Flight_Data_Viewer_QGC.png "QGC px4 pixhawk")
 
 ![](https://drotek.com/wp-content/uploads/2017/01/Flight_Data_List_QGC-250x606.png "qgroundcontrol px4")
 
-Check the "Air Speed" setting. You can choose the size of the display by checking "Large".
+Cochez le paramètre « Air Speed ». Vous pouvez choisir la taille de l’affichage en cochant « Large ».
 
-Confirm by clicking on "OK".
+Validez en cliquant sur « OK ».
 

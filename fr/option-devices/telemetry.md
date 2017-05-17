@@ -1,10 +1,8 @@
 ![](https://drotek.com/wp-content/uploads/2017/01/telemetry-250x250.jpg "telemetry pixhawk pro")
 
-**Telemetry **keeps a wireless connection between the **Pixhawk **and the **ground station**.
+La**télémétrie**permet de garder une connexion sans fil entre la**Pixhawk**et la station au sol.
 
-On the latter, you can receive in real time all the data of the drone such as the position GPS, the speed, the current consumptions, the altitude, ... as well as to send commands to the drone from the ground station.
+Sur cette dernière, vous pouvez recevoir en temps réel toutes les données du drone telles que la position GPS, la vitesse, les consommations courant, l'altitude, ...ainsi qu'envoyer des ordres au drone depuis la station sol.
 
-There are several telemetry technologies such as **Bluetooth, WIFI, XBee, RF **433 / 915MHz systems.
-
-
+Il est existe plusieurs technologies de télémétrie comme le**Bluetooth**, le**WIFI**, le**XBee**, les systèmes**RF**433/915MHz.
 

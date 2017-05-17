@@ -1,45 +1,68 @@
 ![](https://drotek.com/wp-content/uploads/2017/01/radio-telemetry-kit-433-915-mhz.jpg "telemetry hm-trp pixhawk by drotek")
 
-The Drotek telemetry system is designed as an **open source** **Xbee **replacement radio set, offering a lower price, longer range \(approx **one mile**\) and superior performance to Xbee radios.
+Ce système de télémétrie**Drotek** est conçu comme une radio open source remplaçant les modules Xbee à un prix inférieur, de plus longue portée \(environ**1km**\) avec des performances supérieures. Il est disponible en 433 MHz ou 915 MHz.
 
-It’s available in 433Mhz or 915Mhz. The system provides a** full-duplex** link using HopeRF's HM-TRP modules running custom, open source firmware.
+Le système fournit un lien**full-duplex**à l'aide des modules HM-TRP de chez HopeRF s'exécutant avec un firmware open source.
 
-Firmware upgrades and configuration are fully supported in the APM Mission Planner. Configuration is also possible through the 3DR Radio configurator and AT commands.
+Vous trouverez plus d'informations sur cette[page](https://drotek.com/shop/fr/drotek-parts/795-kit-radio-telemetrie-433-915-mhz.html).
 
-You can find more information on this [page](https://drotek.com/shop/en/drotek-parts/795-radio-telemetry-kit-433-915-mhz.html).
+  
+
 
 ### HARDWARE
 
-Please connect one of the 2 telemetries to the "**Telem 1**" serial port of the Pixhawk.
+Veuillez connecter une des 2 télémétries sur le port série "**Telem 1**" de la Pixhawk \(voir photo\).
 
 ![](https://drotek.com/wp-content/uploads/2017/01/DSC02048.jpg "HM-TRP telemetry pixhawk drotek")
 
-Then you can connect the other telemetry to your PC via a **micro USB **cable or to a tablet via an **OTG USB **cable.
+Ensuite il vous reste à connecter l'autre télémétrie à votre**PC** via un câble**USB micro**ou à une**tablette**via un câble** USB OTG. **
 
 ![](https://drotek.com/wp-content/uploads/2017/01/Planner-APM-Android-700x382.jpg "telemetrie tablette hm-trp")
 
-![](https://drotek.com/wp-content/uploads/2017/01/groundstation-with-MP-700x383.png "hm-trp telemetry 433mhz dropix")  
-**IMPORTANT**: Do not forget to screw the antennas on each telemetry module before feeding them, otherwise the HM-TRP chips can be broken.
+  
+
+
+![](https://drotek.com/wp-content/uploads/2017/01/groundstation-with-MP-700x383.png "hm-trp telemetry 433mhz dropix")
+
+**IMPORTANT**: N'oubliez pas de visser les antennes sur chaque module télémétrie avant de les alimenter sous peine de griller les puces HM-TRP.
+
+  
+
+
+  
+
 
 ### SOFTWARE \(PX4 / QGC\)
 
-By default,** QgroundControl **under **PX4 **firmware automatically recognizes telemetry modules as they have already been factory configured by Drotek.
+Par défaut, QgroundControl sous le firmware PX4 reconnait automatiquement les modules télémétries car elles ont déjà été configurés en usine par Drotek.
 
-If you do not like our configuration, you can configure your telemetry modules as you like using [this utility](http://vps.oborne.me/3drradioconfig.zip).
+Si notre configuration ne vous convient pas, vous pouvez configurer vos modules de télémétrie à votre guise en utilisant[cette utilitaire.](http://vps.oborne.me/3drradioconfig.zip)
 
-Simply connect the module to the PC via the USB cable and open the configuration software.
+Il suffit de connecter le module au PC via le câble USB et ouvrir le logiciel de configuration.
 
 ![](https://drotek.com/wp-content/uploads/2017/01/3DR_Radio_Config-700x536.png "3DR\_Radio\_Config hmtrp drotek")
 
-You can change the values to increase your reach or communicate faster.
+Vous pouvez modifier les valeurs afin d’augmenter votre portée ou bien de communiquer plus vite.
 
-**Net ID**: This is the channel that will provide radio, 2 must have the same value.
+_**Net ID**: C’est le canal sur lequel va communiquer la radio, les 2 doivent avoir la même valeur._
 
-**Tx Power**: The power tenfold by radio for data transmission. Can be increased to increase the range.
+_**Tx Power**: La puissance décuplée par la radio pour l’émission de données. Peut être augmenté pour augmenter la portée._
 
-**Air Speed**: cruising speed data through the air. Can be reduced to increase the range.
+_**Air Speed**: la vitesse de croisière des données dans l’air. Peut être réduite pour augmenter la portée._
 
-**Baud**: Communication speed of telemetry. Can be decreased to increase the range.
+_**Baud**: Vitesse de communication des télémétries. Peut être diminué pour augmenter la portée._
 
-You can find more information on this [site](http://ardupilot.org/copter/docs/common-configuring-a-telemetry-radio-using-mission-planner.html).
+  
+
+
+Vous trouverez plus d'informations sur ce[site](http://ardupilot.org/copter/docs/common-configuring-a-telemetry-radio-using-mission-planner.html).
+
+  
+
+
+  
+
+
+  
+
 

@@ -1,18 +1,24 @@
 ![](https://drotek.com/wp-content/uploads/2017/01/mb1242-i2cxl-maxsonar-ez4-ultrasonic-sensor.jpg "sonar maxbotic px4 ardupilot drotek")
 
-The **I2CXL**-MaxSonar-EZ sensors now feature an **I2C **bus. This allows for easy I2C integration and multisensor operation using a single bus.
+Le capteur**I2CXL**-MaxSonar-EZ dispose maintenant d'un bus**I2C**. Cela permet l'intégration I2C facile et un fonctionnement multi-capteurs utilisant un seul bus.
 
-The **I2CXL**‑MaxSonar‑EZ4 has the highest noise tolerance and narrowest beam of any of our indoor sensors. The sensor is designed and calibrated to provide reliable range information to large targets even in environments with strong acoustic or electrical noise sources.
+Le**I2CXL**-MaxSonar-EZ4 a la tolérance au bruit la plus élevée et le faisceau le plus étroit de nos capteurs. Le capteur est conçu pour fournir des informations fiables même dans des environnements avec de fortes sources de bruit électrique ou acoustique.
 
-The sensor is small in size, yet the high output acoustic power combined with continuously variable gain, real-time background automatic calibration, real-time waveform signature analysis, and real-time noise rejection algorithms results in virtually noise free distance readings for most users. This holds true even in the presence of many of the various acoustic or electrical noise sources. The I2CXL‑MaxSonar‑EZ sensor line is factory calibrated to match the sensor beam patterns and provides a long range detection zone.
+Le capteur est de petite taille, mais la puissance acoustique de sortie est élevée elle est combinée à un gain variable, l'analyse en temps réel de la forme d'onde et des algorithmes de réjection du bruit donne des lectures de distance pratiquement exemptes de bruit.
 
-You can find more information on this [page](https://drotek.com/shop/en/home/567-mb1242-i2cxl-maxsonar-ez4-ultrasonic-sensor.html).
+Vous trouverez plus d'information sur cette[page](https://drotek.com/shop/fr/home/567-mb1242-i2cxl-maxsonar-ez4-ultrasonic-sensor.html).
+
+  
+
 
 ### HARDWARE
 
-\[picture I2CXL + Pixhawk\]
+\[photo I2CXL + Pixhawk\]
+
+  
+
 
 ### SOFTWARE
 
-In construction...
+En construction...
 

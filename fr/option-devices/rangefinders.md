@@ -1,6 +1,6 @@
 ![](https://drotek.com/wp-content/uploads/2017/01/ultrasonic-sensor-concept-diagram.jpg "ultrasonic sensor by Drotek")
 
-The distance sensors are used to know the **distance **between the drone and the ground. They are very useful in the **landing **and **take-off **phases.
+Les capteurs de distances sont utilisés pour connaître la**distance**entre le drone et le sol. Ils sont très utiles dans les phases**d'atterrissage**et**décollage**.
 
-The calculation of the **altitude **with respect to a **barometer **makes it possible to obtain a better accuracy and above all shows no **derivation **over time.
+Le calcul de**l'altitude**par rapport à un**baromètre**permet d'obtenir une meilleure précision et surtout ne présente aucune**dérivation**dans le temps.
 
