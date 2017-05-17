@@ -1,14 +1,8 @@
 ![](https://drotek.com/wp-content/uploads/2017/01/DSC02089-1-700x258.jpg "ESC T-motor drotek")
 
-  
+The **ESC **\(Electronic Speed Controller\) allows the speed control of the motors according to the orders of the flight controller. Typically the control signal used by the ESCs is a PWM \(Pulse Width Modulation\) but some models allow the use of **I2C **or **CAN **signals.
 
-
-The**ESC**\(Electronic Speed Controller\) allows the speed control of the motors according to the orders of the flight controller. Typically the control signal used by the ESCs is a PWM \(Pulse Width Modulation\) but some models allow the use of**I2C**or**CAN**signals.
-
-The Pixhawk 3 Pro has**8 PWM outputs**for 8 ESC / Motor pairs.
-
-  
-
+The Pixhawk 3 Pro has **8 PWM outputs**for 8 ESC / Motor pairs.
 
 ### HARDWARE
 
@@ -22,10 +16,7 @@ All blue motors should only be used with CCW propellers. Green motors with CW pr
 
 To see what a CCW propeller looks like, please see the previous picture.
 
-Alsocheck the direction of the motors.**For safety reasons, remove the propellers before handling !!!!!!**
+Also check the direction of the motors.**For safety reasons, remove the propellers before handling !!!!!!**
 
 To reverse the direction of a motor it is enough to reverse 2 of the 3 cables that go from the engine to the ESC.
-
-  
-
 
