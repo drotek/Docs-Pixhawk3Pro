@@ -1,22 +1,25 @@
 ![](https://drotek.com/wp-content/uploads/2017/01/DSC02089-1-700x258.jpg "ESC T-motor drotek")
 
-The **ESC **\(Electronic Speed Controller\) allows the speed control of the motors according to the orders of the flight controller. Typically the control signal used by the ESCs is a PWM \(Pulse Width Modulation\) but some models allow the use of **I2C **or **CAN **signals.
+Les**ESC**\(Electronic Speed Controller\) permettent la gestion en vitesse des moteurs selon les ordres du contrôleur de vol. Typiquement le signal de commande utilisé par les ESC est un PWM \(Pulse Width modulation ou Modulation de largeur d’impulsion\) mais certains modèles permettent l’utilisation de signaux**I2C**ou**CAN**.
 
-The Pixhawk 3 Pro has **8 PWM outputs**for 8 ESC / Motor pairs.
+La Pixhawk 3 Pro dispose de**8sorties PWM**permettant le pilotage de 8 couples ESC / Moteur.
+
+  
+
 
 ### HARDWARE
 
-Please connect each of your PWM ESCs to the corresponding "**Main Out**" output. Refer to the diagram below for the order of your ESC / Motor.
+Veuillez connecter chacun de vos ESC PWM sur la sortie « **Main Out** » correspondante. Reportez-vous au diagramme ci-dessous pour l’ordre de vos couples ESC Moteur.
 
 ![](https://drotek.com/wp-content/uploads/2017/01/DSC02091-1-700x380.jpg "esc tmotor drotek")
 
 ![](https://drotek.com/wp-content/uploads/2017/01/Motors_Wiring-700x744.jpg "Motors\_Wiring pixhawk by drotek")
 
-All blue motors should only be used with CCW propellers. Green motors with CW propellers.
+Tous les moteurs de couleur bleue doivent être utilisés uniquement avec une hélices CCW. Les moteurs de couleur verte avec les hélices CW.
 
-To see what a CCW propeller looks like, please see the previous picture.
+Pour repérer à quoi ressemble une hélice CCW, veuillez regarder la photo précédente.
 
-Also check the direction of the motors.**For safety reasons, remove the propellers before handling !!!!!!**
+Vérifiez aussi le sens des moteurs. **Pour raison de sécurité, enlevez les hélices avant toute manipulation!!!!!!**
 
-To reverse the direction of a motor it is enough to reverse 2 of the 3 cables that go from the engine to the ESC.
+Pour inverser le sens d’un moteur il suffit d’inverser 2 des 3 câbles qui vont du moteur à l’ESC.
 

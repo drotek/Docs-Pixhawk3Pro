@@ -1,8 +1,8 @@
 ![](https://drotek.com/wp-content/uploads/2017/01/gps-logo.jpg "gps gnss galileo glonass")
 
-**GPS **is a device that is commonly used on a drone or robot. It makes it possible **geolocate **the position of the system and thus to be located in space.
+Le**GPS**est un périphérique qui est couramment utilisé sur un drone ou un robot. Il permet de**géolocaliser**la position du système et ainsi se repérer dans l'espace.
 
-GPS is essential when moving **autonomously**.
+Le GPS est indispensable pour effectuer un parcours de façon**autonome**.
 
-In the case of the drone, it will make it possible to fix the position of the system in the air and allow the operator to carry out other tasks during this time.
+Dans le cas du drone il va permettre de fixer la position du système en l'air et permettre à l'opérateur d'effectuer d'autres tâches pendant ce temps.
 

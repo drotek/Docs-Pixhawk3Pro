@@ -1,21 +1,21 @@
 ![](https://drotek.com/wp-content/uploads/2017/01/DSC02075.jpg "allinone pixhawk by Drotek")
 
-[All-in-One](https://drotek.com/shop/en/drotek-parts/819-all-in-one-module.html?live_configurator_token=8746d605a9c04b1e35dffc6d98e0a9e5&id_shop=1&id_employee=1&theme=&theme_font=) module integrates the **buzzer**, **USB **port and **LED **indicator. This provides a cleaner installation on your drone and thus simplifies integration.
+Le module [All-in-One](https://drotek.com/shop/fr/drotek-parts/819-module-all-in-one.html?live_configurator_token=8746d605a9c04b1e35dffc6d98e0a9e5&id_shop=1&id_employee=1&theme=&theme_font=) intègre le **buzzer**, le**port USB** et la **LED témoin**.  Ceci permet d’obtenir un montage plus propre sur votre drone et donc simplifie l’intégration.
 
-The module allows you to configure the Pixhawk via an external USB. This becomes essential when the flight controller is hidden in your drone.
+Le module permet de configurer la Pixhawk à distance via le port USB. Cela devient indispensable lorsque le contrôleur de vol est caché dans votre montage.
 
-The LED provides information on the state of the system via various mixtures of colors and flashes.
+La**LED**permet d’informer de l’état du système via divers mélanges de couleurs et de clignotements.
 
-![](https://drotek.com/wp-content/uploads/2017/01/LED-700x394.png "LED pixhawkLED pixhawk")
+![](https://drotek.com/wp-content/uploads/2017/01/led_fr.png "led pixhawk px4 drotek")
 
-The buzzer is used to inform the system status, such as LEDs, but with different sounds.
+Le buzzer est utilisé pour informer de l’état du système en jouant des mélodies différentes.
 
-You canlistenall tunes on this [site](http://copter.ardupilot.com/wiki/common-sounds-pixhawkpx4/).
+Vous trouverez toutes les sonneries sur ce [site](http://copter.ardupilot.com/wiki/common-sounds-pixhawkpx4/).
 
   
 
 
-How to plug the AllinOne module to the Pixhawk 3 Pro:
+Pour connecter le module AllinOne à la Pixhawk 3 Pro voir ci dessous :
 
 ![](https://drotek.com/wp-content/uploads/2017/01/DSC02045-1.jpg "allinone pixhawk")
 
