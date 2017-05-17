@@ -1,69 +1,65 @@
 FMUv4-PRO takes input from all of the Pixhawk stakeholders; end users, developers, researchers and manufacturing partners. Goals for this iteration of the platform are:
 
-* - An integrated, single-board flight controller for space constrained applications
-* - A modular multi-board flight controller for professional applications
-* - Sufficient I/O for most applications without expansion.
-* - Improved ease-of-use.
-* - Improved sensor performance
-* - Improved microcontroller resources \(384 KB RAM, 2 MB flash\).
-* - Increased reliability and reduced integration complexity.
-* - Reduced BoM and manufacturing costs.
+* An integrated, single-board flight controller for space constrained applications
+* A modular multi-board flight controller for professional applications
+* Sufficient I/O for most applications without expansion.
+* Improved ease-of-use.
+* Improved sensor performance
+* Improved microcontroller resources \(384 KB RAM, 2 MB flash\).
+* Increased reliability and reduced integration complexity.
+* Reduced BoM and manufacturing costs.
 
-  
 
 
 **Key design points**
 
-* - All-in-one design with integrated FMU and optional IO and lots of I/O ports.
-* - Improved manufacturability, designed for simpler mounting and case design.
-* - Separate power supplies for FMU and IO \(see power architecture section\).
-* - Onboard battery backup for FMU and IO SRAM / RTC.
-* - Integration with two standard power bricks.
+* All-in-one design with integrated FMU and optional IO and lots of I/O ports.
+* Improved manufacturability, designed for simpler mounting and case design.
+* Separate power supplies for FMU and IO \(see power architecture section\).
+* Onboard battery backup for FMU and IO SRAM / RTC.
+* Integration with two standard power bricks.
 
-  
 
 
 **Technology upgrades**
 
-* - Microcontroller upgrade to STM32F469; flash increases from 1MiB to 2MiB, RAM increases from 256KiB to 384KiB, more peripheral ports.
-* - ICM-20608, MPU9K integrated gyro / accelerometer / magnetometers.
-* - LIS3MDL compass \(HMC5983 is now obsolete\).
-* - Sensors connected via two SPI buses \(one high rate and one low-noise bus\)
-* - Two I2C buses
-* - Two CAN buses
-* - Voltage / battery readings from two power modules
-* - FrSky Inverter
-* - JST GH user-friendly connectors
+* Microcontroller upgrade to STM32F469; flash increases from 1MiB to 2MiB, RAM increases from 256KiB to 384KiB, more peripheral ports.
+* ICM-20608, MPU9K integrated gyro / accelerometer / magnetometers.
+* LIS3MDL compass \(HMC5983 is now obsolete\).
+* Sensors connected via two SPI buses \(one high rate and one low-noise bus\)
+* Two I2C buses
+* Two CAN buses
+* Voltage / battery readings from two power modules
+* FrSky Inverter
+* JST GH user-friendly connectors
 
-  
 
 
 **I/O ports**
 
-* - 6-14 PWM servo outputs \(8 from IO, 6 from FMU\).
-* - R/C inputs for CPPM, Spektrum / DSM and S.Bus.
-* - Analog / PWM RSSI input.
-* - S.Bus servo output.
-* - 6 general purpose serial ports, 2 with full flow control, 1 with separate 1A current limit, 1 with FrSky protocol inverter.
-* - Two I2C ports.
-* - Two external SPI ports \(unbuffered, for short cables only\).
-* - Two CANBus interfaces.
-* - Analog inputs for voltage / current of two batteries
-* - On-ground usage piezo buzzer driver.
-* - Sensor upgrade connector scheme
-* - High-power RGB LED.
-* - Safety switch / LED.
+* 6-14 PWM servo outputs \(8 from IO, 6 from FMU\).
+* R/C inputs for CPPM, Spektrum / DSM and S.Bus.
+* Analog / PWM RSSI input.
+* S.Bus servo output.
+* 6 general purpose serial ports, 2 with full flow control, 1 with separate 1A current limit, 1 with FrSky protocol inverter.
+* Two I2C ports.
+* Two external SPI ports \(unbuffered, for short cables only\).
+* Two CANBus interfaces.
+* Analog inputs for voltage / current of two batteries
+* On-ground usage piezo buzzer driver.
+* Sensor upgrade connector scheme
+* High-power RGB LED.
+* Safety switch / LED.
 
-  
 
 
 **Mechanical Form Factor**
 
-* - 71 x 49 x 23 mm \(with case\)
-* - 45g \(with case\)
-* - Standardized microUSB connector location
-* - Standardized RGB led location
-* - Standardized connector locations
+* 71 x 49 x 23 mm \(with case\)
+* 45g \(with case\)
+* Standardized microUSB connector location
+* Standardized RGB led location
+* Standardized connector locations
 
 
 
@@ -71,7 +67,6 @@ FMUv4-PRO takes input from all of the Pixhawk stakeholders; end users, developer
 
 FMUv4-PRO continues the PX4FMU+PX4IO architecture from the previous generation, incorporating the two functional blocks in a single physical module.
 
-  
 
 
 **PWM Outputs**
@@ -82,7 +77,6 @@ Six PWM outputs are connected to FMU and feature reduced update latency. These o
 
 All PWM outputs are ESD-protected, and they are designed to survive accidental mis-connection of servos without being damaged. The servo drivers are specified to drive a 50pF servo input load over 2m of 26AWG servo cable. PWM outputs can also be configured as individual GPIOs. Note that these are not high-power outputs – the PWM drivers are designed for driving servos and similar logic inputs only, not relays or LEDs.
 
-  
 
 
 **Peripheral Ports**
@@ -99,7 +93,6 @@ The RSSI input supports either PWM or analog RSSI. CPPM, S.Bus and DSM/ Spektrum
 
 The CAN ports are standard CANBus; termination for one end of the bus is fixed onboard. .
 
-  
 
 
 **Sensors**
@@ -110,5 +103,5 @@ Data-ready signals from all sensors \(except the MS5611, which does not have one
 
 The two external SPI buses and six associated chip select lines allow to add additional sensors and SPI-interfaced payload as needed.
 
-IMU is isolated from vibrations. 
+IMU is isolated from vibrations.
 
