@@ -77,9 +77,9 @@ Two power modules \(voltage and current for each module\) can be sampled by the 
 
 The RSSI input supports either PWM or analog RSSI. CPPM, S.Bus and DSM/ Spektrum share now a single port and are auto-detected in software.
 
-The CAN ports are standard CAN Bus; termination for one end of the bus is fd onboard.
+The CAN ports are standard CAN Bus; termination for one end of the bus is fixed onboard. 
 
-
+ 
 
 **Sensors**
 
