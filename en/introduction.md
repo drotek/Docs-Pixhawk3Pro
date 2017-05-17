@@ -9,8 +9,6 @@ FMUv4-PRO takes input from all of the Pixhawk stakeholders; end users, developer
 * Increased reliability and reduced integration complexity.
 * Reduced BoM and manufacturing costs.
 
-
-
 **Key design points**
 
 * All-in-one design with integrated FMU and optional IO and lots of I/O ports.
@@ -18,8 +16,6 @@ FMUv4-PRO takes input from all of the Pixhawk stakeholders; end users, developer
 * Separate power supplies for FMU and IO \(see power architecture section\).
 * Onboard battery backup for FMU and IO SRAM / RTC.
 * Integration with two standard power bricks.
-
-
 
 **Technology upgrades**
 
@@ -33,8 +29,6 @@ FMUv4-PRO takes input from all of the Pixhawk stakeholders; end users, developer
 * FrSky Inverter
 * JST GH user-friendly connectors
 
-
-
 **I/O ports**
 
 * 6-14 PWM servo outputs \(8 from IO, 6 from FMU\).
@@ -44,14 +38,12 @@ FMUv4-PRO takes input from all of the Pixhawk stakeholders; end users, developer
 * 6 general purpose serial ports, 2 with full flow control, 1 with separate 1A current limit, 1 with FrSky protocol inverter.
 * Two I2C ports.
 * Two external SPI ports \(unbuffered, for short cables only\).
-* Two CANBus interfaces.
+* Two CAN Bus interfaces.
 * Analog inputs for voltage / current of two batteries
 * On-ground usage piezo buzzer driver.
 * Sensor upgrade connector scheme
 * High-power RGB LED.
 * Safety switch / LED.
-
-
 
 **Mechanical Form Factor**
 
@@ -61,13 +53,9 @@ FMUv4-PRO takes input from all of the Pixhawk stakeholders; end users, developer
 * Standardized RGB led location
 * Standardized connector locations
 
-
-
 **System architecture**
 
 FMUv4-PRO continues the PX4FMU+PX4IO architecture from the previous generation, incorporating the two functional blocks in a single physical module.
-
-
 
 **PWM Outputs**
 
@@ -76,8 +64,6 @@ Eight PWM outputs are connected to IO and can be controlled by IO directly via R
 Six PWM outputs are connected to FMU and feature reduced update latency. These outputs cannot be controlled by IO in failsafe conditions. Multiple update rates can be supported on these outputs in two groups; one group of four and one group of two. PWM signal rates up to 400Hz can be supported.
 
 All PWM outputs are ESD-protected, and they are designed to survive accidental mis-connection of servos without being damaged. The servo drivers are specified to drive a 50pF servo input load over 2m of 26AWG servo cable. PWM outputs can also be configured as individual GPIOs. Note that these are not high-power outputs – the PWM drivers are designed for driving servos and similar logic inputs only, not relays or LEDs.
-
-
 
 **Peripheral Ports**
 
@@ -91,7 +77,7 @@ Two power modules \(voltage and current for each module\) can be sampled by the 
 
 The RSSI input supports either PWM or analog RSSI. CPPM, S.Bus and DSM/ Spektrum share now a single port and are auto-detected in software.
 
-The CAN ports are standard CANBus; termination for one end of the bus is fixed onboard. .
+The CAN ports are standard CAN Bus; termination for one end of the bus is fd onboard.
 
 
 
