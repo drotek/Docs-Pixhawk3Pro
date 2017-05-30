@@ -1,4 +1,4 @@
-## Pixhawk user guide
+## Pixhawk 3 Pro user guide
 
 ![pixhawk](../images/pixhawk3D.jpg)
 
