@@ -1,6 +1,6 @@
-![](/assets/stencil.png)
+![stencil](/assets/stencil.png)
 
-![](assets/stencil.png)
+![stencil](assets/stencil.png)
 
 
 
