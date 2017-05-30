@@ -1,5 +1,5 @@
 
-![pixhawk](../assets/pixhawk3D.png)
+![pixhawk](../assets/pixhawk3D.jpg)
 
 ## Translations
 
