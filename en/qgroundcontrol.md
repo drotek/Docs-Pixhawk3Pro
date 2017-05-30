@@ -12,7 +12,7 @@ QGroundControl\_provides full flight control and vehicle setup for PX4 or ArduPi
 * Support for managing multiple vehicles.
 * QGC runs on Windows, OS X, Linux platforms, iOS and Android devices.
 
-![qgroundcontrol](./images/qgc.jpg)
+![qgroundcontrol](../images/qgc.jpg)
 
 
 
