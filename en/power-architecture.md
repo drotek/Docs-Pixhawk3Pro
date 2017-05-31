@@ -2,18 +2,18 @@
 
 Key features of the FMUv4-PRO power architecture:
 
-* - Single, independent 5V supply for the flight controller and peripherals.
-* - Integration with two standard power bricks, including current and voltage 
+* Single, independent 5V supply for the flight controller and peripherals.
+* Integration with two standard power bricks, including current and voltage 
   sensing.
 
-* - Low power consumption and heat dissipation.
-* - Power distribution and monitoring for peripheral devices.
-* - Protection against common wiring faults; under/over-voltage protection, overcurrent 
+* Low power consumption and heat dissipation.
+* Power distribution and monitoring for peripheral devices.
+* Protection against common wiring faults; under/over-voltage protection, overcurrent 
   protection, thermal protection.
 
-* - Brown-out resilience and detection.
-* - Backup power for IO in the case of FMU power supply failure.
-* - Split digital and analog power domains for FMU and sensors.
+* Brown-out resilience and detection.
+* Backup power for IO in the case of FMU power supply failure.
+* Split digital and analog power domains for FMU and sensors.
  <br/> 
  <br/> 
 
@@ -83,8 +83,8 @@ Power outputs to peripherals feature ESD and EMI filtering, and the power supply
 
 Peripheral power is split into two groups:
 
-* - TELEM 1 has a private 1A current limit, intended for powering a telemetry radio. This output is separately EMI filtered and draws directly from the USB / Brick inputs. Due to the noise induced by radios powering a radio from this port is not advised.
-* - All other peripherals share a 1A current limit and a single power switch. 
+* TELEM 1 has a private 1A current limit, intended for powering a telemetry radio. This output is separately EMI filtered and draws directly from the USB / Brick inputs. Due to the noise induced by radios powering a radio from this port is not advised.
+* All other peripherals share a 1A current limit and a single power switch. 
 
 Each group is individually switched under software control.
 
