@@ -1,7 +1,8 @@
 # QGroundControl 
 
 
-**_QGroundControl_** fournit le contrôle complet du vol et la configuration pour les véhicules à moteur **PX4** ou **ArduPilot**. Il offre une utilisation facile et directe pour les débutants, tout en offrant des fonctionnalités haut de gamme pour les utilisateurs expérimentés.
+**QGroundControl** fournit le contrôle complet du vol et la configuration pour les véhicules à moteur **PX4** ou **ArduPilot**. Il offre une utilisation facile et directe pour les débutants, tout en offrant des fonctionnalités haut de gamme pour les utilisateurs expérimentés.
+
 
 **Principales caractéristiques:**
 
