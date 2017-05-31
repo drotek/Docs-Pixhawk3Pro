@@ -1,7 +1,7 @@
 # Téléchargement
 
 
-QGroundControl est compatible avec différentes plateformes telles que Windows, Mac OS X, Linux, iOS, Android.
+**_QGroundControl_** est compatible avec différentes plateformes telles que Windows, Mac OS X, Linux, iOS, Android.
 
 La dernière version stable de QGroundControl est disponible [ici](https://docs.qgroundcontrol.com/en/getting_started/download_and_install.html).
 
