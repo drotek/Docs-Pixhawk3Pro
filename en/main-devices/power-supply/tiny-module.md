@@ -29,7 +29,7 @@ To configure your Tiny module under QgroundControl, go to the "Power" configurat
 * Number of Cells \(in Series\): enter here the number of cells in your lipo battery, this parameter is indicated on your battery by the words 3S, 4S ......
 
 * Full Voltage \(per cell\): leave parameter  
-  **4.05**  
+  `**4.05**`  
   by default
 
 * Empty Voltage \(per cell\): leave parameter
