@@ -1,6 +1,8 @@
+# GPS 
+
 ![](https://drotek.com/wp-content/uploads/2017/01/gps-logo.jpg "gps gnss galileo glonass")
 
-**GPS **is a device that is commonly used on a drone or robot. It makes it possible **geolocate **the position of the system and thus to be located in space.
+**GPS** is a device that is commonly used on a drone or robot. It makes it possible **geolocate** the position of the system and thus to be located in space.
 
 GPS is essential when moving **autonomously**.
 
