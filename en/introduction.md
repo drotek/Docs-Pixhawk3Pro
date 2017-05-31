@@ -11,6 +11,7 @@
 * Increased reliability and reduced integration complexity.
 * Reduced BoM and manufacturing costs.
 <br/>
+<br/>
 
 **Key design points**
 
