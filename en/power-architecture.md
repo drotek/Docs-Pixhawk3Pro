@@ -1,6 +1,6 @@
 # Power architecture
 
-Key features of the FMUv4-PRO power architecture:
+Key features of the **FMUv4-PRO** power architecture:
 
 * Single, independent 5V supply for the flight controller and peripherals.
 * Integration with two standard power bricks, including current and voltage 
@@ -29,7 +29,7 @@ The second channel of each dual regulator is switchable under software control. 
 
 Power may be supplied to FMUv4-PRO via USB \(no peripherals in this mode\) or via the power brick ports. Each power source is protected against reverse-polarity connections and back-powering from other sources. Power spikes observed on the servo bus \(up to 10V\) led to the removal of the power-from-servo option, users wanting this feature can connect the servo rail with a cable containing a Zener diode to the 2nd power brick port.
 
-The FMU + IO power budget is 250mA, including all LEDs and the Piezo buzzer. Peripheral power is limited to 2A total.
+The FMU + IO power budget is 250mA, including all LEDs and the Piezo buzzer. Peripheral power is limited to **2A** total.
  <br/>
  <br/> 
 
@@ -41,9 +41,9 @@ The brick port is the preferred power source for FMUv4-PRO, and brick power will
 
 **Servo Power:**
 
-FMUv4-PRO supports both standard \(5V\) and high-voltage \(up to 10V\) servo power with some restrictions. IO will accept power from the servo connector up to 10V. This allows IO to fail-over to servo power in all cases if the main power supply is lost or interrupted. FMUv4-PRO and peripherals combined may draw up to 2A total.
+FMUv4-PRO supports both standard \(5V\) and high-voltage \(up to 10V\) servo power with some restrictions. This allows IO to fail-over to servo power in all cases if the main power supply is lost or interrupted. FMUv4-PRO and peripherals combined may draw up to 2A total.
 
-Power is never supplied by FMUv4 to servos.
+Power is never supplied by FMUv4 to servos!!!
  <br/>
  <br/>
 
@@ -83,8 +83,8 @@ Power outputs to peripherals feature ESD and EMI filtering, and the power supply
 
 Peripheral power is split into two groups:
 
-* TELEM 1 has a private 1A current limit, intended for powering a telemetry radio. This output is separately EMI filtered and draws directly from the USB / Brick inputs. Due to the noise induced by radios powering a radio from this port is not advised.
-* All other peripherals share a 1A current limit and a single power switch. 
+* TELEM 1 has a private **1A** current limit, intended for powering a telemetry radio. This output is separately EMI filtered and draws directly from the USB / Brick inputs. Due to the noise induced by radios powering a radio from this port is not advised.
+* All other peripherals share a** 1A** current limit and a single power switch. 
 
 Each group is individually switched under software control.
 
