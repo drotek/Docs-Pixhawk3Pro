@@ -18,7 +18,7 @@ All blue motors should only be used with CCW propellers. Green motors with CW pr
 
 To see what a CCW propeller looks like, please see the previous picture.
 
-Also check the direction of the motors. > . >**For safety reasons, remove the propellers before handling !!!!!!**
+Also check the direction of the motors. > **For safety reasons, remove the propellers before handling !!!!!!**
 
 To reverse the direction of a motor it is enough to reverse 2 of the 3 cables that go from the engine to the ESC.
 
