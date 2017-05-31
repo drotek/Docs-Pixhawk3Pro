@@ -1,4 +1,6 @@
-The XL GPS module features a u-blox **Neo M8N** GNSS \(GP S, GLONASS, BeiDou, **HMC5983 **magnetometer to give your system the ability to know its position and orientation.
+# XL GPS
+
+The XL GPS module features a u-blox **Neo M8N** GNSS \(GP S, GLONASS, BeiDou, **HMC5983** magnetometer to give your system the ability to know its position and orientation.
 
 These modules offer better satellite reception than the GNSS "Mushroom" module thanks to their large antenna and their larger ground plane.
 
@@ -16,11 +18,11 @@ No element should be placed above the "Mushroom" module to ensure optimal recept
 
 Before proceeding with the configuration, make sure that your Mushroom module is correctly positioned as described in the previous section.
 
-To configure your mushroom GPS module with QgroundControl, go to the “**Sensors**” configuration window under “**Compass**“:
+To configure your mushroom GPS module with QgroundControl, go to the `Sensors` configuration window under `Compass`:
 
 ![](https://drotek.com/wp-content/uploads/2017/01/Menu_Sensors_QGC.png "Menu\_Sensors\_QGC px4 pixhawk")![](https://drotek.com/wp-content/uploads/2017/01/Compass_FcRotation_QGC.png "Compass\_FcRotation\_QGC px4")
 
-In the window above, select “Rotation\_None”.
+In the window above, select `Rotation_None`.
 
 Then calibrate the compass by successively performing the rotations indicated by the images with your camera.
 
