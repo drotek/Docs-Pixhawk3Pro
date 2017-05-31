@@ -21,6 +21,7 @@
 * Onboard battery backup for FMU and IO SRAM / RTC.
 * Integration with two standard power bricks.
 <br/>
+<br/>
 
 **Technology upgrades**
 
@@ -33,6 +34,7 @@
 * Voltage / battery readings from two power modules
 * FrSky Inverter
 * JST GH user-friendly connectors
+<br/>
 <br/>
 
 **I/O ports**
@@ -51,6 +53,7 @@
 * High-power RGB LED.
 * Safety switch / LED.
 <br/>
+<br/>
 
 **Mechanical Form Factor**
 
@@ -60,10 +63,12 @@
 * Standardized RGB led location
 * Standardized connector locations
 <br/>
+<br/>
 
 **System architecture**
 
 FMUv4-PRO continues the PX4FMU+PX4IO architecture from the previous generation, incorporating the two functional blocks in a single physical module.
+<br/>
 <br/>
 
 **PWM Outputs**
@@ -73,6 +78,7 @@ Eight PWM outputs are connected to IO and can be controlled by IO directly via R
 Six PWM outputs are connected to FMU and feature reduced update latency. These outputs cannot be controlled by IO in failsafe conditions. Multiple update rates can be supported on these outputs in two groups; one group of four and one group of two. PWM signal rates up to 400Hz can be supported.
 
 All PWM outputs are ESD-protected, and they are designed to survive accidental mis-connection of servos without being damaged. The servo drivers are specified to drive a 50pF servo input load over 2m of 26AWG servo cable. PWM outputs can also be configured as individual GPIOs. Note that these are not high-power outputs – the PWM drivers are designed for driving servos and similar logic inputs only, not relays or LEDs.
+<br/>
 <br/>
 
 **Peripheral Ports**
@@ -88,6 +94,7 @@ Two power modules \(voltage and current for each module\) can be sampled by the 
 The RSSI input supports either PWM or analog RSSI. CPPM, S.Bus and DSM/ Spektrum share now a single port and are auto-detected in software.
 
 The CAN ports are standard CAN Bus; termination for one end of the bus is fixed onboard. 
+<br/>
 <br/>
 
  
