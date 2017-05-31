@@ -84,7 +84,7 @@ Power outputs to peripherals feature ESD and EMI filtering, and the power supply
 Peripheral power is split into two groups:
 
 * TELEM 1 has a private **1A** current limit, intended for powering a telemetry radio. This output is separately EMI filtered and draws directly from the USB / Brick inputs. Due to the noise induced by radios powering a radio from this port is not advised.
-* All other peripherals share a** 1A** current limit and a single power switch. 
+* All other peripherals share a **1A** current limit and a single power switch. 
 
 Each group is individually switched under software control.
 
