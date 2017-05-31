@@ -13,7 +13,7 @@
 <br/>
 <br/>
 
-**Key design points**
+**Key design points:**
 
 * All-in-one design with integrated FMU and optional IO and lots of I/O ports.
 * Improved manufacturability, designed for simpler mounting and case design.
@@ -23,7 +23,7 @@
 <br/>
 <br/>
 
-**Technology upgrades**
+**Technology upgrades:**
 
 * Microcontroller upgrade to **STM32F469**; flash increases from 1MiB to 2MiB, RAM increases from 256KiB to 384KiB, more peripheral ports.
 * **ICM-20602**, **MPU9K** integrated gyro / accelerometer / magnetometers.
@@ -37,7 +37,7 @@
 <br/>
 <br/>
 
-**I/O ports**
+**I/O ports:**
 
 * 6-14 PWM servo outputs \(8 from IO, 6 from FMU\).
 * R/C inputs for CPPM, Spektrum / DSM and S.Bus.
@@ -55,7 +55,7 @@
 <br/>
 <br/>
 
-**Mechanical Form Factor**
+**Mechanical Form Factor:**
 
 * 71 x 49 x 23 mm \(with case\)
 * 45g \(with case\)
@@ -65,13 +65,13 @@
 <br/>
 <br/>
 
-**System architecture**
+**System architecture:**
 
 FMUv4-PRO continues the PX4FMU+PX4IO architecture from the previous generation, incorporating the two functional blocks in a single physical module.
 <br/>
 <br/>
 
-**PWM Outputs**
+**PWM Outputs:**
 
 Eight PWM outputs are connected to IO and can be controlled by IO directly via R/C input and onboard mixing even if FMU is not active \(failsafe / manual mode\). Multiple update rates can be supported on these outputs in three groups; one group of four and two groups of two. PWM signal rates up to 400Hz can be supported.
 
@@ -81,7 +81,7 @@ All PWM outputs are ESD-protected, and they are designed to survive accidental m
 <br/>
 <br/>
 
-**Peripheral Ports**
+**Peripheral Ports:**
 
 FMUv4-PRO recommends separate connectors for each of the peripheral ports \(with a few exceptions\). This avoids the issues many users reported connecting to the 15-pin multi-IO port on the original PX4FMU-PRO and allows single-purpose peripheral cables to be manufactured.
 
@@ -99,7 +99,7 @@ The CAN ports are standard CAN Bus; termination for one end of the bus is fixed 
 
  
 
-**Sensors**
+**Sensors:**
 
 The new **ICM-20602** has been positioned by Invensense as higher-end successor of the MPU-6000 series. The software also supports the MPU-9250, which allows a very cost-effective 9D solution.
 
