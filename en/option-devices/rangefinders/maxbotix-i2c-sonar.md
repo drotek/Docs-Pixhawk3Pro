@@ -1,6 +1,8 @@
+# Maxbotix I2C sonar
+
 ![](https://drotek.com/wp-content/uploads/2017/01/mb1242-i2cxl-maxsonar-ez4-ultrasonic-sensor.jpg "sonar maxbotic px4 ardupilot drotek")
 
-The **I2CXL**-MaxSonar-EZ sensors now feature an **I2C **bus. This allows for easy I2C integration and multisensor operation using a single bus.
+The **I2CXL**-MaxSonar-EZ sensors now feature an **I2C** bus. This allows for easy I2C integration and multisensor operation using a single bus.
 
 The **I2CXL**‑MaxSonar‑EZ4 has the highest noise tolerance and narrowest beam of any of our indoor sensors. The sensor is designed and calibrated to provide reliable range information to large targets even in environments with strong acoustic or electrical noise sources.
 
