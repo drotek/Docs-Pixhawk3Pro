@@ -1,6 +1,8 @@
+# Mushroom GPS
+
 ![](https://drotek.com/wp-content/uploads/2017/01/ublox-neo-m8n-gps-hmc5983-compass.jpg "ublox m8n drotek")
 
-The "Mushroom" GPS module features a u-blox **Neo M8N** and Galileo-ready\) and a **HMC5983 **magnetometer to give your system the ability to know its position and orientation.
+The "Mushroom" GPS module features a u-blox **Neo M8N** and Galileo-ready\) and a **HMC5983** magnetometer to give your system the ability to know its position and orientation.
 
 All in a removable case to avoid interference.
 
@@ -20,11 +22,11 @@ No element should be placed above the "Mushroom" module to ensure optimal recept
 
 Before proceeding with the configuration, make sure that your Mushroom module is correctly positioned as described in the previous section.
 
-To configure your mushroom GPS module with QgroundControl, go to the "**Sensors**" configuration window under "**Compass**":
+To configure your mushroom GPS module with QgroundControl, go to the `Sensor` configuration window under `Compass`:
 
 ![](https://drotek.com/wp-content/uploads/2017/01/Menu_Sensors_QGC.png "Menu\_Sensors\_QGC px4 pixhawk")![](https://drotek.com/wp-content/uploads/2017/01/Compass_FcRotation_QGC.png "Compass\_FcRotation\_QGC px4")
 
-In the window above, select "Rotation\_None".
+In the window above, select `Rotation_None`.
 
 Then calibrate the compass by successively performing the rotations indicated by the images with your camera.
 
@@ -32,11 +34,11 @@ Then calibrate the compass by successively performing the rotations indicated by
 
 For the GPS "Mushroom" and only for this GPS model, a rotation is to be parameterized in QgroundControl.
 
-To do this, go to the configuration window "Sensors" under "Set Orientation".
+To do this, go to the configuration window `Sensors` under `Set Orientation`.
 
-In the window that appears on the right, select "**ROTATION\_NONE**" in "Autopilot Orientation" and "**ROTATION\_ROLL\_180**" in "External Compass Orientation"
+In the window that appears on the right, select `ROTATION_NONE` in `Autopilot Orientation` and `ROTATION_ROLL_180` in `External Compass Orientation`
 
-Then click "OK"
+Then click `OK`
 
 ![](https://drotek.com/wp-content/uploads/2017/01/External_Compass_SetOrientation_QGC-250x175.png "External\_Compass\_SetOrientation\_QGC")
 
