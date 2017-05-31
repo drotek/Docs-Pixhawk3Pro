@@ -10,7 +10,9 @@
 * Improved microcontroller resources \(384 KB RAM, 2 MB flash\).
 * Increased reliability and reduced integration complexity.
 * Reduced BoM and manufacturing costs.3
-<br\>
+<br/>
+<br/>
+<br/>
 
 **Key design points**
 
