@@ -1,0 +1,11 @@
+{
+    "plugins": [
+        "custom-favicon"
+    ],
+    
+    "pluginsConfig":
+    {
+        "favicon": "favicon.ico"    
+        
+    }
+}
