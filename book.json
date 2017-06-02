@@ -10,10 +10,10 @@
     
     "pluginsConfig":
     {
-        "favicon": "favicon.ico",
+        "favicon": "favicon.ico"/*,
 	    "layout": {
 			"headerPath" : "layouts/header.html"
-	    }
+	    }*/
         
     }
 }
