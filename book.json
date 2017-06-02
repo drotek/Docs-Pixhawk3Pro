@@ -1,7 +1,8 @@
 {
     "plugins": [
         "custom-favicon",
-		"header"
+		"header",
+		"language-picker"
     ],
     
     "pluginsConfig":
