@@ -1,15 +1,15 @@
 {
     "plugins": [
         "custom-favicon",
-		"header",
-		"language-picker"
+		"header"/*,
+		"language-picker"*/
     ],
     
     "pluginsConfig":
     {
         "favicon": "favicon.ico",
 	    "layout": {
-			"headerPath" : "layouts/headers.html"
+			"headerPath" : "layouts/header.html"
 		}
         
     }
