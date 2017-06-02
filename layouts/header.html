@@ -1,0 +1,35 @@
+<script type="text/javascript">
+  function openCloseMenu(){
+      var menu = document.getElementById('menuButton');
+      var menuOptions = document.getElementById('menu-menu-principal');
+      if(menu.className === 'cat-title'){
+          menu.className = 'cat-title active';
+          menuOptions.className = 'sf-menu menu-open';
+      }else{
+          menu.className = 'cat-title';
+          menuOptions.className = 'sf-menu menu-close';
+      }
+  }
+</script>
+
+<div id="block_top_menu" class="row">
+    <div id="header_logo">
+    	<a href="https://drotek.com/en/" title="Drotek">
+    		<img class="logo img-responsive" src="https://drotek.com/shop/img/logo-drotek.png" alt="Drotek" width="250" height="85">
+    	</a>
+    </div>
+    <div class="sf-contener clearfix col-lg-12">
+        <div id="menuButton" class="cat-title" onclick="openCloseMenu()">Menu</div>
+        <ul id="menu-menu-principal" class="sf-menu">
+            <li id="menu-item-2745" class="home-icon menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-19 current_page_item menu-item-2745"><a href="https://drotek.com/en/">Home</a></li>
+            <li id="menu-item-2760" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2760"><a href="https://drotek.com/shop/en/">Store</a></li>
+            <li id="menu-item-2743" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2743"><a href="https://drotek.com/en/services/">Services</a></li>
+            <li id="menu-item-2893" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2893"><a href="https://drotek.com/en/io-factory/">IO Factory</a></li>
+            <li id="menu-item-2746" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2746"><a href="https://drotek.com/en/lessons/">Learn</a></li>
+            <li id="menu-item-2747" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2747"><a href="#">Forum</a></li>
+            <li id="menu-item-2748" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2748"><a href="https://drotek.com/en/documentation/">Docs</a></li>
+            <li id="menu-item-2744" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2744"><a href="https://drotek.com/en/news/">News</a></li>
+            <li id="menu-item-2749" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2749"><a href="https://drotek.com/en/contact-drotek/">Contact</a></li>
+        </ul>								
+    </div>
+</div>

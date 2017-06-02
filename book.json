@@ -1,11 +1,15 @@
 {
     "plugins": [
-        "custom-favicon"
+        "custom-favicon",
+		"header"
     ],
     
     "pluginsConfig":
     {
-        "favicon": "favicon.ico"    
+        "favicon": "favicon.ico",
+	    "layout": {
+			"headerPath" : "layouts/header.html"
+		}
         
     }
 }
