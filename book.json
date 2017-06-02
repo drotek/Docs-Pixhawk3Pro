@@ -9,7 +9,7 @@
     {
         "favicon": "favicon.ico",
 	    "layout": {
-			"headerPath" : "layouts/header.html"
+			"headerPath" : "layouts/headers.html"
 		}
         
     }
