@@ -1,8 +1,11 @@
 {
     "plugins": [
         "custom-favicon",
-		"header",
-		"language-picker"
+		//"header",
+		"language-picker",
+	    	"theme-faq",
+        "-fontsettings",
+        "-sharing"
     ],
     
     "pluginsConfig":
@@ -10,7 +13,7 @@
         "favicon": "favicon.ico",
 	    "layout": {
 			"headerPath" : "layouts/header.html"
-		}
+	    }
         
     }
 }
