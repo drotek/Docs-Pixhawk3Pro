@@ -3,9 +3,8 @@
         "custom-favicon",
 		
 		"language-picker",
-	    	"theme-faq",
-        "-fontsettings",
-        "-sharing"
+	    "header"
+        
     ],
     
     "pluginsConfig":
