@@ -1,11 +1,11 @@
 ## Pixhawk 3 Pro user guide
 
-![pixhawk](../images/pixhawk3D.jpg)
+![pixhawk](../images/rtk.jpg)
 
 
 ## Translations
 
-You can change the language of the guide [HERE](https://pixhawk.drotek.com/).
+You can change the language of the guide [HERE](https://drotek.gitbooks.io/rtk-gps/en/).
 
 
 ## License
