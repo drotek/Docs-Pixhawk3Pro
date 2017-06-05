@@ -2,17 +2,14 @@
     "plugins": [
         "custom-favicon",
 		
-		"language-picker",
-	    "header"
+		"language-picker"
+	    
         
     ],
     
     "pluginsConfig":
     {
-        "favicon": "favicon.ico",
-	    "layout": {
-			"headerPath" : "layouts/website/header.html"
-	    }
-        
+        "favicon": "favicon.ico"
+	    
     }
 }
