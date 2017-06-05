@@ -1,4 +1,4 @@
-## Pixhawk 3 Pro user guide
+## RTK GPS User Guide
 
 ![pixhawk](../images/rtk.jpg)
 
