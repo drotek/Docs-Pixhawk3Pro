@@ -12,7 +12,7 @@ The LED provides information on the state of the system via various mixtures�
 
 The buzzer is used to inform the system status, such as LEDs, but with different sounds.
 
-You canlistenall tunes on this [site](http://copter.ardupilot.com/wiki/common-sounds-pixhawkpx4/).
+You can listen all tunes on this [site](http://copter.ardupilot.com/wiki/common-sounds-pixhawkpx4/).
 
   
 
