@@ -4,7 +4,7 @@ Le module [All-in-One](https://drotek.com/shop/fr/drotek-parts/819-module-all-i
 
 Le module permet de configurer la Pixhawk à distance via le port USB. Cela devient indispensable lorsque le contrôleur de vol est caché dans votre montage.
 
-La**LED**permet d’informer de l’état du système via divers mélanges de couleurs et de clignotements.
+La **LED** permet d’informer de l’état du système via divers mélanges de couleurs et de clignotements.
 
 ![](https://drotek.com/wp-content/uploads/2017/01/led_fr.png "led pixhawk px4 drotek")
 
