@@ -1,6 +1,6 @@
 # RTK GPS
 
-![rtk gnss neo-m8p](../rtk-gps-kit-for-pixhawk.jpg)
+![rtk gnss neo-m8p](../../../images/rtk-gps-kit-for-pixhawk.jpg)
 
 To understand how works the RTK, I advise you to visit [this page](https://drotek.com/en/documentation/tiny-rtk-documentation/#quest-ce-que-le-rtk-2).
 
@@ -17,11 +17,11 @@ You will need:
 The rover module must be securely attached to the unit, preferably in the same direction as your Pixhawk 3 Pro and raised a few centimeters above your motors.
 Connect the JST-GH cable on the `Serial1` connector of your Pixhawk and the Rover connector of the RTK module.
 
-![neo-m8p](../../images/M8P pixhawk.JPG)
+![neo-m8p](../../../images/M8P pixhawk.JPG)
 
 Then, connect the laptop to the base RTK module with a micro USB cable. 
 
-![base ublox m8p](../../images/M8P pixhawk.)
+![base ublox m8p](../../../images/M8P pixhawk.)
 
 
 
