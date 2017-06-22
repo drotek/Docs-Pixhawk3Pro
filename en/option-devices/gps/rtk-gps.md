@@ -19,7 +19,8 @@ Connect the JST-GH cable on the `Serial1` connector of your Pixhawk and the Rove
 
 ![neo-m8p](../../../images/M8P pixhawk.JPG)
 
-Don't forget to configure the switch on `rover` position. 
+
+> **Note** Don't forget to place the switch on the rover position. 
 
 ![neo-m8p ublox](../../../images/switch rover rtk.JPG)
 
