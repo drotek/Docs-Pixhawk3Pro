@@ -48,4 +48,20 @@ Then calibrate the compass by successively performing the rotations indicated by
 
 ![](https://drotek.com/wp-content/uploads/2017/01/Window_Compass_Calib_QGC-700x460.png "qgroundcontrol px4 pixhawk")
 
+If you started QGroundControl via console, you should see the status update there as well (if not, make sure the autoconnect to RTK GPS option is checked in the general application settings).
+
+![base gnss rtk](../../../images/px4-rtk.png)
+
+What you see is the status of the survey-in process. This is a startup procedure to get an accurate position estimate of the base station. It's configured to run at least 3 minutes and it must reach an accuracy of 1 meter. The current accuracy is printed to the console. It takes several minutes to complete, depending on the GPS signal reception.
+
+While survey-in is running you can already start the vehicle and make sure it connects to QGroundControl. No further setup on the vehicle is required. Once the survey-in process is finished, QGroundControl automatically starts to send the RTCM correction data to the vehicle. After a while it should switch to RTK mode, which is visible in the GPS status (3D RTK GPS Lock):
+
+![base gnss rtk](../../../images/qgc_rtk_gps_status.png)
+
+There are two RTK modes: Float and Fixed. While the Float mode is easier to reach, it is a bit less accurate than Fixed mode (further explanations are for example here). The system will automatically switch to Fixed mode when the signal is good enough.
+
+Now you can start to fly!
+
+You may also need to tune some parameters. The default parameters are tuned assuming a GPS accuracy in the order of meters, not centimeters.
+
 
