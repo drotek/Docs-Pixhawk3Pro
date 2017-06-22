@@ -15,9 +15,13 @@ You will need:
 * A Telemetry or WiFi between the autpilot and the laptop 
 
 The rover module must be securely attached to the unit, preferably in the same direction as your Pixhawk 3 Pro and raised a few centimeters above your motors.
-Connect the JST-GH cable on the Serial1 connector of your Pixhawk and the Rover connector of the RTK module.
+Connect the JST-GH cable on the `Serial1` connector of your Pixhawk and the Rover connector of the RTK module.
 
-![neo-m8p](../images/M8P pixhawk.JPG)
+![neo-m8p](../../images/M8P pixhawk.JPG)
+
+Then, connect the laptop to the base RTK module with a micro USB cable. 
+
+![base ublox m8p](../../images/M8P pixhawk.)
 
 
 
