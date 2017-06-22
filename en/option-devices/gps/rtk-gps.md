@@ -1,13 +1,9 @@
 # RTK GPS
 
-![](https://drotek.com/wp-content/uploads/2017/01/ublox-neo-m8n-gps-hmc5983-compas.jpg "ublox m8n drotek")
+![rtk gnss neo-m8p](../rtk-gps-kit-for-pixhawk.jpg)
 
 To understand how works the RTK, I advise you to visit [this page](https://drotek.com/en/documentation/tiny-rtk-documentation/#quest-ce-que-le-rtk-2).
 
-The "Mushroom" GPS module features a u-blox **Neo M8N** and Galileo-ready\) and a **HMC5983** magnetometer to give your system the ability to know its position and orientation.
-
-
-You can find more information on [this page](https://drotek.com/shop/en/drotek-parts/820-ublox-neo-m8n-gps-hmc5983-compass.html).
 
 
 ### HARDWARE
@@ -21,7 +17,7 @@ You will need:
 The rover module must be securely attached to the unit, preferably in the same direction as your Pixhawk 3 Pro and raised a few centimeters above your motors.
 Connect the JST-GH cable on the Serial1 connector of your Pixhawk and the Rover connector of the RTK module.
 
-![neo-m8p](../images/M8P pixhawk.jpg)
+![neo-m8p](../images/M8P pixhawk.JPG)
 
 
 
