@@ -9,6 +9,7 @@ The "Mushroom" GPS module features a u-blox **Neo M8N** and Galileo-ready\) and 
 
 You can find more information on [this page](https://drotek.com/shop/en/drotek-parts/820-ublox-neo-m8n-gps-hmc5983-compass.html).
 
+
 ### HARDWARE
 
 You will need:
@@ -20,9 +21,9 @@ You will need:
 The rover module must be securely attached to the unit, preferably in the same direction as your Pixhawk 3 Pro and raised a few centimeters above your motors.
 Connect the JST-GH cable on the Serial1 connector of your Pixhawk and the Rover connector of the RTK module.
 
-No element should be placed above the "Mushroom" module to ensure optimal reception of the satellite.
+![neo-m8p](../images/M8P pixhawk.jpg)
 
-![](https://drotek.com/wp-content/uploads/2017/01/DSC02039-700x369.jpg "pixhawk ublox gps drotek")
+
 
 ### SOFTWARE \(PX4 / QGC\)
 
