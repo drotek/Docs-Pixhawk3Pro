@@ -19,9 +19,17 @@ Connect the JST-GH cable on the `Serial1` connector of your Pixhawk and the Rove
 
 ![neo-m8p](../../../images/M8P pixhawk.JPG)
 
+Don't forget to configure the switch on `rover` position. 
+
+![neo-m8p ublox](../../../images/switch rover rtk.JPG)
+
 Then, connect the laptop to the base RTK module with a micro USB cable. 
 
-![base ublox m8p](../../../images/M8P pixhawk.)
+![base ublox m8p](../../../images/M8P pixhawk.jjj)
+
+The base GPS device needs to be in a fixed position while it is used. So make sure it is in a position where it is not moved and with a clear view to the sky, not close to a building. Preferably, it should be elevated (for example with a tripod, or on a roof). Compared to normal GPS, RTK is more sensitive and needs a careful setup.
+
+![base gnss rtk](../../../images/xxl-rtk-gps-neo-m8p-2.jpg)
 
 
 
