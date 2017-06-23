@@ -38,6 +38,8 @@ The base GPS device needs to be in a fixed position while it is used. So make su
 
 Before proceeding with the configuration, make sure that your rover module is correctly positioned as described in the previous section.
 
+> **Note** Configure the rover and base module in following [this page](https://drotek.com/en/lessons/comment-utiliser-le-module-rtk-drotek/).
+
 To configure this module with QgroundControl, go to the `Sensor` configuration window under `Compass`:
 
 ![](https://drotek.com/wp-content/uploads/2017/01/Menu_Sensors_QGC.png "Menu\_Sensors\_QGC px4 pixhawk")![](https://drotek.com/wp-content/uploads/2017/01/Compass_FcRotation_QGC.png "Compass\_FcRotation\_QGC px4")
