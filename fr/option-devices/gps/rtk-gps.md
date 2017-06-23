@@ -26,7 +26,7 @@ Connectez le câble JST-GH sur le connecteur `Serial1` de votre Pixhawk et le co
 
 Ensuite, connecter l'ordinateur à la base RTK avec un câble micro USB. 
 
-![base ublox m8p](../../../images/M8P-pixhawk.jjj)
+![base ublox m8p](../../../images/gps-rtk-xxl-neo-m8p-3.jpg)
 
 La base RTK doit être dans une position fixe pendant qu'il est utilisé. Alors assurez-vous qu'elle est dans une position où elle n'est pas déplacée et avec une vue dégagée sur le ciel, pas près d'un bâtiment. De préférence, elle devrait être élevée (par exemple avec un trépied ou sur un toit). Par rapport au GPS normal, le système RTK est plus sensible et nécessite une mise en place attentive.
 
