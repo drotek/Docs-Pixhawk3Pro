@@ -26,7 +26,7 @@ Connect the JST-GH cable on the `Serial1` connector of your Pixhawk and the Rove
 
 Then, connect the laptop to the base RTK module with a micro USB cable. 
 
-![base ublox m8p](../../../images/M8P-pixhawk.jjj)
+![base ublox m8p](../../../images/gps-rtk-xxl-neo-m8p-3.jpg)
 
 The base GPS device needs to be in a fixed position while it is used. So make sure it is in a position where it is not moved and with a clear view to the sky, not close to a building. Preferably, it should be elevated (for example with a tripod, or on a roof). Compared to normal GPS, RTK is more sensitive and needs a careful setup.
 
