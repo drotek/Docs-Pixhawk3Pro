@@ -6,6 +6,7 @@
   * [Inputs / Outputs](inputs-outputs.md)
 * [QGROUNDCONTROL](qgroundcontrol.md)
   * [Download](qgroundcontrol/download.md)
+    * Safety switch
 * [MAIN DEVICES](main-devices.md)
   * [Radio receiver](main-devices/radio-receiver.md)
   * [ESC / motor](main-devices/esc-motor.md)
