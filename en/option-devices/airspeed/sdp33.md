@@ -1,20 +1,20 @@
 # Airspeed
 
-![](https://drotek.com/wp-content/uploads/2017/01/digital-differential-airspeed-sensor-kit--700x468.jpg "airspeed drotek ardupilot")
+![sdp33 sensirion](../../images/sdp33.jpg)
 
 **Plane** supports the use of an airspeed sensor, which can help in windy condition, slow flight and autonomous landings. It is not recommended for most new users, however, as it does require additional tuning and adds one more layer of control to set up.
 
-The digital differential airspeed sensor has a very low offset, a high resolution and, best of all, does not suffer from the noise induced by long cables. Featuring a Measurement Specialties **4525DO** sensor, with 1 psi measurement range \(roughly up to 100 m/s or 360 km/h or 223 mp/h\), the Airspeed Sensor Kit enables a resolution of 0.84 Pa, with data delivered at 14 bits from a 24 bit delta-sigma ADC.
+The digital differential airspeed sensor has a high resolution and does not suffer from the noise induced by long cables. The **SDP3X** sensor from Sensirion has an excellent accuracy and repeatability (even below 1Pa), no zero-point offset (no drift), and is calibrated and temperature compensated.  
 
-You can find more information on this [page](https://drotek.com/shop/en/drotek-parts/793-digital-differential-airspeed-sensor-kit-.html).
+
 
 ### HARDWARE
 
 The following sections show how to wire sensors to the flight controller.
 
-Connect the airspeed sensor to Pixhawk’s **I2C** port \(or I2C splitter module\). Using the rubber tubing, connect the longer extension on the pitot tube to the cone that protrudes from the top of the airspeed sensor board \(off the off-white, square section protrudingoffthe top of the board\), and connect the shorter extension on the pitot tube to the cone protruding from the base of the board.
+Connect the airspeed sensor to Pixhawk’s **I2C** port \(or I2C splitter module\). 
 
-\[picture airspeed + pixhawk\]
+![sdp33 sensirion](../../images/sdp33 pixhawk.jpg)
 
 When you place the **airspeed sensor** in your aircraft, use the **pitot** tube set in the kit \(the kit comes with a single tube to measure both static and total pressure\). Make sure the holes in the side of the tube are not covered. They should be at least **1 centimeter** out past the nose. Firstconnect the two tubes coming out the back to the airspeed sensor. The tube coming straight out the back should go into the top port and the tube exiting at an angle should connect to the bottom port on the airspeed sensor. Drill or cut a small hole in the foam and push it through to the front.
 
