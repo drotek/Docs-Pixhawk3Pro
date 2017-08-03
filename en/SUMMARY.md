@@ -22,10 +22,9 @@
   * [Telemetry](option-devices/telemetry.md)
     * [HM-TRP](option-devices/telemetry/hm-trp.md)
     * [ESP8266](option-devices/telemetry/esp8266.md)
-  * [Airspeed](option-devices/airspeed.md)
   * [Rangefinders](option-devices/rangefinders.md)
     * [Maxbotix I2C sonar](option-devices/rangefinders/maxbotix-i2c-sonar.md)
   * [Airspeed](option-devices/airspeed.md)
-    * 4525DO
+    * [4525DO](option-devices/airspeed/4525do.md)
     * SDP33
 
