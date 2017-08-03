@@ -16,7 +16,8 @@ Le capteur **SDP3X** de Sensirion a une excellente précision et une répétabil
 
 Connectez le capteur au port I2C de la Pixhawk. La photo ci-dessous illustre la connexion entre la Pixhawk et le capteur de vitesse:
 
-\[photo capteur vitesse + Pixhawk\]
+
+![sdp33 sensirion](../../../images/sdp33-pixhawk.JPG)
 
 Placez la sonde **Pitot** comme illustré sur la photo. Assurez-vous que les trous sur le côté du tube ne soient pas couverts. Ils devraient être décalés d’au moins **1 centimètre** par rapport au fuselage. Reliez les deux tubes de caoutchouc qui sortent à l’arrière de la sonde au capteur de vitesse. Connectez la partie la plus longue du tube de Pitot  au cône du dessus du capteur de vitesse.  Faire de même avec la partie la plus courte du tube au cône du bas.
 
