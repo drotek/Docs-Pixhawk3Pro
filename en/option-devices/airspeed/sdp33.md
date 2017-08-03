@@ -14,7 +14,7 @@ The following sections show how to wire sensors to the flight controller.
 
 Connect the airspeed sensor to Pixhawk’s **I2C** port \(or I2C splitter module\). 
 
-![sdp33 sensirion](../../../images/sdp33 pixhawk.JPG)
+![sdp33 sensirion](../../../images/sdp33-pixhawk.JPG)
 
 When you place the **airspeed sensor** in your aircraft, use the **pitot** tube set in the kit \(the kit comes with a single tube to measure both static and total pressure\). Make sure the holes in the side of the tube are not covered. They should be at least **1 centimeter** out past the nose. Firstconnect the two tubes coming out the back to the airspeed sensor. The tube coming straight out the back should go into the top port and the tube exiting at an angle should connect to the bottom port on the airspeed sensor. Drill or cut a small hole in the foam and push it through to the front.
 
