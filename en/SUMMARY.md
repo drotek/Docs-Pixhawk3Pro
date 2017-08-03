@@ -25,4 +25,7 @@
   * [Airspeed](option-devices/airspeed.md)
   * [Rangefinders](option-devices/rangefinders.md)
     * [Maxbotix I2C sonar](option-devices/rangefinders/maxbotix-i2c-sonar.md)
+  * [Airspeed](option-devices/airspeed.md)
+    * 4525DO
+    * SDP33
 
