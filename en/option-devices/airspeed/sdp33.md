@@ -1,4 +1,4 @@
-# Airspeed
+# SDP33 sensor
 
 ![sdp33 sensirion](../../../images/sdp33.JPG)
 
