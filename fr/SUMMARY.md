@@ -25,4 +25,7 @@
   * [Capteur de vitesse](option-devices/airspeed.md)
   * [Capteur de distance](option-devices/rangefinders.md)
     * [Sonar I2C Maxbotix ](option-devices/rangefinders/maxbotix-i2c-sonar.md)
+  * [Capteur de vitesse](option-devices/capteur-de-vitesse.md)
+    * 4525DO
+    * SDP33
 
