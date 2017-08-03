@@ -22,7 +22,6 @@
   * [Telemetrie](option-devices/telemetry.md)
     * [HM-TRP](option-devices/telemetry/hm-trp.md)
     * [ESP8266](option-devices/telemetry/esp8266.md)
-  * [Capteur de vitesse](option-devices/airspeed.md)
   * [Capteur de distance](option-devices/rangefinders.md)
     * [Sonar I2C Maxbotix ](option-devices/rangefinders/maxbotix-i2c-sonar.md)
   * [Capteur de vitesse](option-devices/airspeed.md)
