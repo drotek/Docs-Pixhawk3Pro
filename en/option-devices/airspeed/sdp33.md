@@ -1,4 +1,4 @@
-# SDP33 sensor
+# SDP3X sensor
 
 ![sdp33 sensirion](../../../images/sdp33.JPG)
 
