@@ -3,7 +3,7 @@
 ![sdp33 sensirion](../../../images/sdp33.JPG)
 
 
-La**Pixhawk 3 Pro**supporte l’utilisation d’un capteur de vitesse, ce qui peut aider dans des conditions venteuses, vol lent et pendant des atterrissages autonomes avec un drone à voilure fixe.
+La**Pixhawk 3 Pro** supporte l’utilisation d’un capteur de vitesse, ce qui peut aider dans des conditions venteuses, vol lent et pendant des atterrissages autonomes avec un drone à voilure fixe.
 
 Ce capteur de pression différentielle numérique a un très faible décalage, une haute résolution et ne souffre pas du bruit induit par de longs câbles.
 
