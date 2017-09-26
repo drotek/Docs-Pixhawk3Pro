@@ -31,6 +31,7 @@ De nombreux acteurs jouent un rôle dans la plateforme **FMUv4-PRO**; utilisateu
 * Inverseur FrSky.
 * Connecteurs JST-GH user-friendly.
 
+**Entrées / Sorties:**
 
 * 6-14 sorties servo PWM \(8 de l'IO, 6 du FMU\).
 * Entrées R/C pour le CPPM, Spektrum / DSM et S.Bus.
