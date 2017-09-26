@@ -15,7 +15,7 @@ Munissez vous de:
 * une télémétrie ou un système WiFi entre l'autpilote et l'ordinateur 
 
 Le GPS rover doit être solidement attaché à l'unité, de préférence dans la même direction que votre Pixhawk et surélevé quelques centimètres au-dessus de vos moteurs.
-Connectez le câble JST-GH sur le connecteur `Serial1` de votre Pixhawk et le connecteur Rover du module RTK.
+Connectez le câble JST-GH sur le connecteur `GPS` de votre Pixhawk et branchez le au connecteur Rover du module RTK.
 
 ![neo-m8p](../../../images/M8P-pixhawk.JPG)
 
