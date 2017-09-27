@@ -16,7 +16,7 @@ De nombreux acteurs jouent un rôle dans la plateforme **FMUv4-PRO**; utilisateu
 * Design tout-en-un avec un FMU intégré, un IO optionnel et de nombreuses entrées et sorties.
 * Une fabrication améliorée, élaborée pour une intégration et une création de boîtier simplifiée.
 * Des alimentations séparées pour le FMU et l'IO \(voir Architecture Alimentation\)
-* Système de secours de la batterie pour le FMU et la SRAM / RTC de l'IO implémenté sur la carte.
+* Système de secours de la batterie pour le FMU et la SRAM / RTC de l'IO implémenté directement sur la carte.
 * Possibilité d'utilisation avec deux modules de puissance.
 
 **Evolutions technologiques**
