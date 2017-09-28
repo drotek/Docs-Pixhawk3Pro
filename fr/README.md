@@ -8,6 +8,6 @@
 Vous pouvez changer la langue du guide [ici](https://pixhawk.drotek.com/).
 
 
-## License
+## Licence
 
-Le guide Pixhawk est disponible sous [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license. 
+Le guide Pixhawk est disponible sous licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). 

@@ -1,8 +1,8 @@
-Le module**GNSS XL**embarque une puce GNSS Ublox**Neo M8N**compatible**GPS, Galileo, GLONASS et BeiDou**ainsi qu’une puce magnétomètre**HMC5983**afin de donner à votre système la capacité de connaitre sa position et son orientation.
+Le module **GNSS XL** embarque une puce GNSS Ublox **Neo M8N** compatible **GPS, Galileo, GLONASS et BeiDou** ainsi qu’une puce magnétomètre **HMC5983** afin de donner à votre système la capacité de connaitre sa position et son orientation.
 
 Ces modules offrent une meilleur réception satellite que le module GNSS « Mushroom » grâce à leur grande antenne et leur plan de masse plus important.
 
-Vous trouverez plus d'informations sur cette[page](https://drotek.com/shop/fr/drotek-parts/613-module-gps-ublox-neo-m8n-magnetometre-hmc5983-xl.html?search_query=ublox&results=20).
+Vous trouverez plus d'informations sur cette [page](https://drotek.com/shop/fr/drotek-parts/613-module-gps-ublox-neo-m8n-magnetometre-hmc5983-xl.html?search_query=ublox&results=20).
 
   
 
