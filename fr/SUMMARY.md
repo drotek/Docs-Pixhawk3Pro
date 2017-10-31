@@ -16,6 +16,7 @@
 * [MATERIEL EN OPTION](option-devices.md)
   * [GPS](option-devices/gps.md)
     * [GPS Mushroom ](option-devices/gps/mushroom-gps.md)
+    * [GPS Sirius](option-devices/gps/sirius.md)
     * [GPS XL](option-devices/gps/xl-gps.md)
     * [GPS XXL ](option-devices/gps/xxl-gps.md)
     * [GPS RTK ](option-devices/gps/rtk-gps.md)

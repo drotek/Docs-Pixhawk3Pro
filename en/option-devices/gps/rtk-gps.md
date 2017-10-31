@@ -2,7 +2,7 @@
 
 ![rtk gnss neo-m8p](../../../images/rtk-gps-kit-for-pixhawk.jpg)
 
-To understand how works the RTK, I advise you to visit [this page](https://drotek.com/en/documentation/tiny-rtk-documentation/#quest-ce-que-le-rtk-2).
+You can find all informations on the Drotek RTK modules and how to use them efficiently by following [this link](https://www.gitbook.com/book/drotek/doc-rtk/details).
 
 
 
