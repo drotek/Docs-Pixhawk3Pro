@@ -2,7 +2,7 @@
 
 ![](https://drotek.com/wp-content/uploads/2017/01/ublox-neo-m8n-gps-hmc5983-compass.jpg "ublox m8n drotek")
 
-The "Mushroom" GPS module features a u-blox **Neo M8N** and Galileo-ready\) and a **HMC5983** magnetometer to give your system the ability to know its position and orientation.
+The "Mushroom" GPS module features a u-blox **Neo M8N** chip and a **HMC5983** magnetometer to give your system the ability to know its position and orientation.
 
 All in a removable case to avoid interference.
 
