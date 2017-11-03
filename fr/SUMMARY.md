@@ -13,6 +13,7 @@
   * [Module All In One](main-devices/all-in-one-module.md)
   * [Alimentation](main-devices/power-supply.md)
     * [Module Tiny](main-devices/power-supply/tiny-module.md)
+    * [Power Management Unit](main-devices/power-supply/pmu.md)
 * [MATERIEL EN OPTION](option-devices.md)
   * [GPS](option-devices/gps.md)
     * [GPS Mushroom ](option-devices/gps/mushroom-gps.md)
