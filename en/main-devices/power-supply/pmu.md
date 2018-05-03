@@ -1,5 +1,10 @@
 #Power Management Unit module
 
+<p align="center">
+  <img src="./images/pmu3d.png?raw=true" alt="PMU 3D Model"/>
+</p>
+
+
 ![](https://drotek.com/wp-content/uploads/2017/01/module-d-alimentation-53v-capteur-couranttension.jpgg "alimentation pixhawk drotek")
 
 Along with the numerous drone parts Drotek is selling, Drotek has developed a couple of boards related to the power management operation inside of embedded electronics in general. At the end of this year 2017, Drotek created a new power management unit, built to provide a solid and reliable power supply for as many projects as possible.
