@@ -5,7 +5,7 @@
 </p>
 
 
-Drotek a créé une nouvelle unité de gestion de l'alimentation, conçue pour fournir une alimentation électrique solide et fiable et plug-and-play avec la Pixhawk 3 PRO.
+Drotek a crÃ©Ã© une nouvelle unitÃ© de gestion de l'alimentation, conÃ§ue pour fournir une alimentation Ã©lectrique solide et fiable et plug-and-play avec la Pixhawk 3 PRO.
 
 Vous trouverez plus d'information sur cette [page](https://drotek.gitbooks.io/power-management-unit-user-guide/).
 
