@@ -2,11 +2,11 @@
 
 ![](https://drotek.com/wp-content/uploads/2017/01/ublox-neo-m8n-gps-hmc5983-compass.jpg "ublox m8n drotek")
 
-The "Mushroom" GPS module features a u-blox **Neo M8N** chip and a **HMC5983** magnetometer to give your system the ability to know its position and orientation.
+The "Mushroom" GPS module features a u-blox **Neo M8N** chip and a **LIS3MDL **magnetometer to give your system the ability to know its position and orientation.
 
 All in a removable case to avoid interference.
 
-You can find more information on [this page](https://drotek.com/shop/en/drotek-parts/820-ublox-neo-m8n-gps-hmc5983-compass.html).
+You can find more information on[ this page](https://drotek.com/shop/en/u-blox/876-module-gps-ublox-neo-m8n-magnetometre-lis3mdl-pixhawk-3-pro.html?live_configurator_token=8746d605a9c04b1e35dffc6d98e0a9e5&id_shop=1&id_employee=1&theme=&theme_font=).
 
 ### HARDWARE
 
@@ -36,7 +36,7 @@ For the GPS "Mushroom" and only for this GPS model, a rotation is to be paramete
 
 To do this, go to the configuration window `Sensors` under `Set Orientation`.
 
-In the window that appears on the right, select `ROTATION_NONE` in `Autopilot Orientation` and `ROTATION_ROLL_180` in `External Compass Orientation`
+In the window that appears on the right, select `ROTATION_NONE` in `Autopilot Orientation` and `ROTATION_NONE` in `External Compass Orientation`
 
 Then click `OK`
 
