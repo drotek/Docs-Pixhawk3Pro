@@ -32,13 +32,5 @@ Then calibrate the compass by successively performing the rotations indicated by
 
 ![](https://drotek.com/wp-content/uploads/2017/01/Window_Compass_Calib_QGC-700x460.png "qgroundcontrol px4 pixhawk")
 
-For the GPS "Mushroom" and only for this GPS model, a rotation is to be parameterized in QgroundControl.
-
-To do this, go to the configuration window `Sensors` under `Set Orientation`.
-
-In the window that appears on the right, select `ROTATION_NONE` in `Autopilot Orientation` and `ROTATION_NONE` in `External Compass Orientation`
-
-Then click `OK`
-
-![](https://drotek.com/wp-content/uploads/2017/01/External_Compass_SetOrientation_QGC-250x175.png "External\_Compass\_SetOrientation\_QGC")
+Your compass is configured and ready to be used.
 
