@@ -1,6 +1,6 @@
 # XL GPS
 
-![](https://github.com/drotek/Docs-Pixhawk3Pro/blob/master/images/XL-M8N-GPS-drotek.png?raw=true)
+![](https://github.com/drotek/Docs-Pixhawk3Pro/blob/master/images/M8N-GPS-XL%20drotek.png?raw=true)
 
 The XL GPS module features a u-blox **Neo M8N** chip and a **LIS3MDL **magnetometer to give your system the ability to know its position and orientation.
 
