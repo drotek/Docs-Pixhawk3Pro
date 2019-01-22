@@ -1,6 +1,6 @@
 # SDP3X sensor
 
-![sdp33 sensirion](../../../images/sdp33.JPG)
+![](https://github.com/drotek/Docs-Pixhawk3Pro/blob/master/images/sdp3x-drotek.png?raw=true)
 
 <p class="text-justify">**Plane** supports the use of an airspeed sensor, which can help in windy condition, slow flight and autonomous landings. It is not recommended for most new users, however, as it does require additional tuning and adds one more layer of control to set up.
 
