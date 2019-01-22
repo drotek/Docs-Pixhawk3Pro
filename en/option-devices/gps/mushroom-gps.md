@@ -6,13 +6,13 @@ The "Mushroom" GPS module features a u-blox **Neo M8N** chip and a **LIS3MDL **m
 
 All in a removable case to avoid interference.
 
-You can find more information on[ this page](https://drotek.com/shop/en/u-blox/876-module-gps-ublox-neo-m8n-magnetometre-lis3mdl-pixhawk-3-pro.html?live_configurator_token=8746d605a9c04b1e35dffc6d98e0a9e5&id_shop=1&id_employee=1&theme=&theme_font=).
+You can find more information on [this page](https://store.drotek.com/pixhawk-3-pro/890-power-management-unit-pro-8944595120663.html).
 
 ### HARDWARE
 
 Connect the cable to the GPS connector on your Pixhawk.
 
-The module must be securely attached to the unit, preferably in the same direction as your Pixhawk 3 Pro and raised a few centimeters above your motors.
+The module must be securely attached to the unit, preferably in the same direction as your [Pixhawk 3 Pro](https://store.drotek.com/autopilots/885-pixhawk-pro-autopilot-8944595120670.html) and raised a few centimeters above your motors.
 
 No element should be placed above the "Mushroom" module to ensure optimal reception of the satellite.
 
