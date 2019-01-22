@@ -2,6 +2,8 @@
 
 # XXL GPS
 
+![](https://github.com/drotek/Docs-Pixhawk3Pro/blob/master/images/m8N-gps-xxl-drotek.png?raw=true)
+
 The XXL GPS module features a u-blox **Neo M8N** chip and a **LIS3MDL **magnetometer to give your system the ability to know its position and orientation.
 
 These modules offer better satellite reception than the GNSS "Mushroom" module thanks to their large antenna and their larger ground plane.
