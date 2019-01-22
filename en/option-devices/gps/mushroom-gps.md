@@ -1,6 +1,6 @@
 # Mushroom GPS
 
-![](https://drotek.com/wp-content/uploads/2017/01/ublox-neo-m8n-gps-hmc5983-compass.jpg "ublox m8n drotek")
+![](https://github.com/drotek/Docs-Pixhawk3Pro/blob/master/images/Ublox-NEO-M8N-GPS-+-LIS3MDL-compass-%28Pixhawk-3-Pro%29-579.png?raw=true "ublox m8n drotek")
 
 The "Mushroom" GPS module features a u-blox **Neo M8N** chip and a **LIS3MDL **magnetometer to give your system the ability to know its position and orientation.
 
