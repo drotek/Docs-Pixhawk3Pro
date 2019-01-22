@@ -1,6 +1,6 @@
 # RTK GPS
 
-![rtk gnss neo-m8p](../../../images/rtk-gps-kit-for-pixhawk.jpg)
+![](https://github.com/drotek/Docs-Pixhawk3Pro/blob/master/images/xxl-rtk-gps-base-drotek.png?raw=true)
 
 You can find all informations on the Drotek RTK modules and how to use them efficiently by following [this link](https://www.gitbook.com/book/drotek/doc-rtk/details).
 
