@@ -4,7 +4,7 @@ The XL GPS module features a u-blox **Neo M8N** chip and a **LIS3MDL **magnetome
 
 These modules offer better satellite reception than the GNSS "Mushroom" module thanks to their large antenna and their larger ground plane.
 
-You can find more information on [this page](https://drotek.com/shop/en/u-blox/880-ublox-neo-m8n-gps-lis3mdl-compass-xl.html?live_configurator_token=8746d605a9c04b1e35dffc6d98e0a9e5&id_shop=1&id_employee=1&theme=&theme_font=).
+You can find more information on [this page](https://store.drotek.com/gps/871-691-ublox-neo-m8n-gps-lis3mdl-compass-8944595120588.html#/108-cable-dropix).
 
 ### HARDWARE
 
