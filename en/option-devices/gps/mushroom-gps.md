@@ -6,7 +6,7 @@ The "Mushroom" GPS module features a u-blox **Neo M8N** chip and a **LIS3MDL **m
 
 All in a removable case to avoid interference.
 
-You can find more information on [this page](https://store.drotek.com/pixhawk-3-pro/890-power-management-unit-pro-8944595120663.html).
+You can find more information on [this page](https://store.drotek.com/gps/871-691-ublox-neo-m8n-gps-lis3mdl-compass-8944595120588.html#/108-cable-dropix).
 
 ### HARDWARE
 
