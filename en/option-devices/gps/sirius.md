@@ -1,6 +1,6 @@
 # Sirius GPS
 
-![](https://drotek.com/wp-content/uploads/2017/05/Sirius_rendu_oblique2.png "Sirius M8N GPS")
+![](https://github.com/drotek/Docs-Pixhawk3Pro/blob/master/images/gps-sirius-drotek-doc.png?raw=true "Sirius M8N GPS")
 
 The Sirius GPS module features a u-blox **Neo M8N** chip for accurate positioning and a **LIS3MDL** heading sensor to provide heanding sensing to your vehicle. The Sirius GPS has a built-in active antenna located inside the case to allow the greatest performances along with a compatibility with the Galileo satellites constellation for a maximum reliability.
 
