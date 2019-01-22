@@ -2,7 +2,7 @@
 
 There are 3 different ways to connect your receiver to the Pixhawk, depending on your hardware.
 
-**SBUS **or **PPM receiver**: If you have a SBUS or PPM receiver, as "[X8R](https://drotek.com/shop/en/home/400-receiver-x8r-frsky.html?search_query=x8r&results=5)" or "[D4R-II](https://drotek.com/shop/en/home/503-d4r-ii-receiver-4-channels-accst-fr-sky.html)" from FrSky, you must plug it on the RC input of the Pixhawk.
+**SBUS **or **PPM receiver**: If you have a SBUS or PPM receiver, as "[X8R](https://store.drotek.com/communication/400-receiver-x8r-frsky.html)" or "[D4R-II](https://store.drotek.com/communication/503-d4r-ii-receiver-4-channels-accst-fr-sky.html)" from FrSky, you must plug it on the RC input of the Pixhawk.
 
 ![](https://drotek.com/wp-content/uploads/2017/01/SBUS_PPM.jpg "SBUS\_PPM pixhawk pro")
 
