@@ -8,7 +8,7 @@ It’s available in 433Mhz or 915Mhz. The system provides a ** full-duplex** lin
 
 Firmware upgrades and configuration are fully supported in the APM Mission Planner. Configuration is also possible through the 3DR Radio configurator and AT commands.
 
-You can find more information on this [page](https://drotek.com/shop/en/drotek-parts/795-radio-telemetry-kit-433-915-mhz.html).
+You can find more information on [this page](https://store.drotek.com/communication/795-756-radio-telemetry-kit-433-915-mhz-8944595120731.html#/26-frequency-433_mhz/116-antenna-without/126-otg_micro_usb-without).
 
 ### HARDWARE
 
@@ -20,7 +20,8 @@ Then you can connect the other telemetry to your PC via a **micro USB** cable or
 
 ![](https://drotek.com/wp-content/uploads/2017/01/Planner-APM-Android-700x382.jpg "telemetrie tablette hm-trp")
 
-![](https://drotek.com/wp-content/uploads/2017/01/groundstation-with-MP-700x383.png "hm-trp telemetry 433mhz dropix")  
+![](https://drotek.com/wp-content/uploads/2017/01/groundstation-with-MP-700x383.png "hm-trp telemetry 433mhz dropix")
+
 > **IMPORTANT**: Do not forget to screw the antennas on each telemetry module before feeding them, otherwise the HM-TRP chips can be broken.
 
 ### SOFTWARE \(PX4 / QGC\)
