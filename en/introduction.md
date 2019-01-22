@@ -1,6 +1,6 @@
 # Introduction
 
-**FMUv4-PRO** takes input from all of the Pixhawk stakeholders; end users, developers, researchers and manufacturing partners. Goals for this iteration of the platform are:
+ **FMUv4-PRO** takes input from all of the Pixhawk stakeholders; end users, developers, researchers and manufacturing partners. Goals for this iteration of the platform are:
 
 * An integrated, single-board flight controller for space constrained applications
 * A modular multi-board flight controller for professional applications
@@ -11,7 +11,7 @@
 * Increased reliability and reduced integration complexity.
 * Reduced BoM and manufacturing costs.
 <br/>
-<br/>
+<br/> 
 
 **Key design points:**
 
