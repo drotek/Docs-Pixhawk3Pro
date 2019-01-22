@@ -6,7 +6,7 @@ There are 3 different ways to connect your receiver to the Pixhawk, depending on
 
 ![](https://drotek.com/wp-content/uploads/2017/01/SBUS_PPM.jpg "SBUS\_PPM pixhawk pro")
 
-**Classic Receiver**: If you have a conventional receiver you must go through a [PPM encoder](https://drotek.com/shop/en/home/364-ppm-encoder-8-channels.html) \(up to 8 CHANNELS\) and connect it to **RC **of the Pixhawk. Remember to activate the solder bridge on the encoder if you want to power your receiver from the Pixhawk.
+**Classic Receiver**: If you have a conventional receiver you must go through a [PPM encoder](https://store.drotek.com/communication/503-d4r-ii-receiver-4-channels-accst-fr-sky.html) \(up to 8 CHANNELS\) and connect it to **RC **of the Pixhawk. Remember to activate the solder bridge on the encoder if you want to power your receiver from the Pixhawk.
 
 ![](https://drotek.com/wp-content/uploads/2017/01/PWM.jpg "rc pixhawk pro")
 
