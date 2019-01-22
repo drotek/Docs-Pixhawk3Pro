@@ -15,7 +15,7 @@ You will need:
 The rover module must be securely attached to the unit, preferably in the same direction as your Pixhawk and raised a few centimeters above your motors.  
 Connect the JST-GH cable on the `GPS` connector of your Pixhawk and the Rover connector of the RTK module.
 
-![neo-m8p](../../../images/M8P-pixhawk.JPG)
+[![neo-m8p](../../../images/M8P-pixhawk.JPG)](https://store.drotek.com/gps/881-xl-rtk-gps-neo-m8p-rover-8944595120625.html)
 
 > **Note** Don't forget to place the switch on the rover position.
 
@@ -32,8 +32,6 @@ The base GPS device needs to be in a fixed position while it is used. So make su
 ### SOFTWARE \(PX4 / QGC\)
 
 Before proceeding with the configuration, make sure that your rover module is correctly positioned as described in the previous section.
-
-> **Note** Configure the rover and base module in following [this page](https://drotek.com/en/lessons/comment-utiliser-le-module-rtk-drotek/).
 
 To configure this module with QgroundControl, go to the `Sensor` configuration window under `Compass`:
 
