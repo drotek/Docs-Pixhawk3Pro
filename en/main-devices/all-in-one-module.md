@@ -8,7 +8,7 @@ The module allows you to configure the Pixhawk via an external USB. This becomes
 
 The LED provides information on the state of the system via various mixtures of colors and flashes.
 
-![](https://drotek.com/wp-content/uploads/2017/01/LED-700x394.png "LED pixhawkLED pixhawk")
+![](https://github.com/drotek/Docs-Pixhawk3Pro/blob/master/images/LED-and-buzzer-signal-drotek.png?raw=true "LED pixhawkLED pixhawk")
 
 The buzzer is used to inform the system status, the same way as LEDs do, but with different sounds.
 
