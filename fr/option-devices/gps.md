@@ -1,4 +1,6 @@
-![](https://drotek.com/wp-content/uploads/2017/01/gps-logo.jpg "gps gnss galileo glonass")
+# gps
+
+![gps gnss galileo glonass](https://drotek.com/wp-content/uploads/2017/01/gps-logo.jpg)
 
 Le **GPS** est un périphérique qui est couramment utilisé sur un drone ou un robot. Il permet de **géolocaliser** la position du système et ainsi se repérer dans l'espace.
 

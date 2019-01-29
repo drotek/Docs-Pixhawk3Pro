@@ -1,5 +1,4 @@
-# Download
-
+# download
 
 QGroundControl is compatible with different platforms such as Windows, Mac OS X, Linux, iOS, Android.
 

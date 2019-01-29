@@ -1,4 +1,4 @@
-# Introduction {#introduction}
+# introduction
 
 De nombreux acteurs jouent un rôle dans la plateforme **FMUv4-PRO**; utilisateurs finaux, développeurs, chercheurs et fabricants. Les objectifs de cette itération de la plateforme sont:
 
@@ -22,8 +22,8 @@ De nombreux acteurs jouent un rôle dans la plateforme **FMUv4-PRO**; utilisateu
 **Evolutions technologiques**
 
 * Upgrade du microcontrôleur vers un STM32F469; augmentation mémoire flash de 1Mio à 2Mio, de la RAM de 256Kio à 384Kio, plus d'entrées sorties périphériques.
-* Gyroscopes / Accéléromètres / Magnétomètres **ICM-20602**, **MPU9K **intégrés.
-* Magnétomètre boussole **LIS3MDL **\(le HMC5983 est devenu obsolète\).
+* Gyroscopes / Accéléromètres / Magnétomètres **ICM-20602**, **MPU9K** intégrés.
+* Magnétomètre boussole **LIS3MDL** \(le HMC5983 est devenu obsolète\).
 * Capteurs connectés sur deux bus SPI \(un bus high-rate et un bus low-noise\).
 * Deux bus I2C.
 * Deux bus CAN.
@@ -65,7 +65,7 @@ Huit sorties PWM sont connectées à l'IO qui peut les contrôler directement vi
 
 Six sorties PWM sont connectées au FMU et intègrent une fonctionnalité de réduction du temps de rafraîchissement. Ces sorties ne peuvent pas être contrôlées par l'IO en mode failsafe. Plusieurs vitesses de rafraîchissement sont possibles sur ces sorties divisées en deux groupes : 1 groupe de quatre et 1 groupe de deux. Des signaux PWM jusqu'à 400Hz sont supportés.
 
-Toutes les sorties PWM sont anti-ESD et sont conçues pour résister à des mauvaises connections accidentelles des servos sans être endommagées. Les lignes servo sont faites pour transporter la charge d'un câble 26AWG de 2 mètres pour un servomoteur de 50pF.  Les sorties PWM peuvent également être utilisées comme GPIOs. Il est à noter que ces sorties ne sont pas des sorties haute puissance - les contrôleurs PWM sont faits pour contrôler des servos et des signaux analogiques du même type, mais pas de relais ou de LEDs.
+Toutes les sorties PWM sont anti-ESD et sont conçues pour résister à des mauvaises connections accidentelles des servos sans être endommagées. Les lignes servo sont faites pour transporter la charge d'un câble 26AWG de 2 mètres pour un servomoteur de 50pF. Les sorties PWM peuvent également être utilisées comme GPIOs. Il est à noter que ces sorties ne sont pas des sorties haute puissance - les contrôleurs PWM sont faits pour contrôler des servos et des signaux analogiques du même type, mais pas de relais ou de LEDs.
 
 **Ports périphériques:**
 
@@ -83,7 +83,7 @@ Les ports CAN sont des bus CAN standards dont la terminaison est incluse à l'in
 
 **Capteurs:**
 
-Le nouveau capteur **ICM-20602 **est le successeur plus évolué des capteurs de génération MPU-6xxx d'Invensense. Le programme supporte aussi l'utilisation d'un MPU9250, pour offrir une solution en 9D des plus low-cost.
+Le nouveau capteur **ICM-20602** est le successeur plus évolué des capteurs de génération MPU-6xxx d'Invensense. Le programme supporte aussi l'utilisation d'un MPU9250, pour offrir une solution en 9D des plus low-cost.
 
 Les signaux "data-ready' de tous les capteurs \(excepté le MS5611 qui ne le supporte pas\) sont connectés à des interruptions et timers indépendants du FMU. Cette technique permet un horodatage plus précis des infos capteurs.
 
