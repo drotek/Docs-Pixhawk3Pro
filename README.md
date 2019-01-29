@@ -1,4 +1,4 @@
-# README
+# PIXHAWK 3 PRO
 
 
 

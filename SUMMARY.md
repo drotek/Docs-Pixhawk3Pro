@@ -1,7 +1,7 @@
 # Table of contents
 
-* [README](README.md)
-* [LANGS](langs.md)
+* [PIXHAWK 3 PRO](README.md)
+* [Choose a language](langs.md)
 * [French](fr/README.md)
   * [main-devices](fr/main-devices/README.md)
     * [radio-receiver](fr/main-devices/radio-receiver.md)
