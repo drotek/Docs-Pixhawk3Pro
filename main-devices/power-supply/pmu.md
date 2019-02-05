@@ -1,6 +1,6 @@
 # pmu
 
-![PMU 3D Model](https://github.com/drotek/Docs-Pixhawk3Pro/tree/3e3b8c815b7fdb9e6916bdf506980d30bf66fba3/en/main-devices/power-supply/images/pmu3d.png?raw=true)
+![](../../.gitbook/assets/pmu.png)
 
 Along with the numerous drone parts Drotek is selling, Drotek has developed a couple of boards related to the power management operation inside of embedded electronics in general. At the end of this year 2017, Drotek created [a new power management unit](https://store.drotek.com/pixhawk-3-pro/890-power-management-unit-pro-8944595120663.html), built to provide a solid and reliable power supply for as many projects as possible.
 
