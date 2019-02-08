@@ -1,4 +1,4 @@
-# all-in-one-module
+# all-in-one module
 
 ![allinone pixhawk by Drotek](https://drotek.com/wp-content/uploads/2017/01/DSC02075.jpg)
 

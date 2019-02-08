@@ -13,5 +13,5 @@
     * [tiny-module](main-devices/power-supply/tiny-module.md)
     * [Power Management Unit \(PMU\)](main-devices/power-supply/pmu.md)
   * [esc-motor](main-devices/esc-motor.md)
-  * [all-in-one-module](main-devices/all-in-one-module.md)
+  * [all-in-one module](main-devices/all-in-one-module.md)
 
