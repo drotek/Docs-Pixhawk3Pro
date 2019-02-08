@@ -1,4 +1,4 @@
-# main-devices
+# Main Devices
 
 Please place the Pixhawk Pro case in the direction of the arrow as shown below.
 

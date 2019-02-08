@@ -1,4 +1,4 @@
-# pmu
+# Power Management Unit \(PMU\)
 
 ![](../../.gitbook/assets/pmu.png)
 

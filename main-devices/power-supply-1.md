@@ -1,4 +1,0 @@
-# power-supply
-
-
-
