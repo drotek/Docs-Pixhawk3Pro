@@ -1,4 +1,4 @@
-# PIXHAWK 3 PRO User Guide
+# Pixhawk 3 Pro User Guide
 
 ![pixhawk](.gitbook/assets/pixhawk3d.jpg)
 

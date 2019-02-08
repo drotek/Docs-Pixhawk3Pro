@@ -1,4 +1,4 @@
-# Inputs-Outputs
+# Pinouts
 
 
 
