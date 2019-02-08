@@ -1,4 +1,4 @@
-# qgroundcontrol
+# QGroundcontrol
 
 _QGroundControl_ provides full flight control and vehicle setup for PX4 or ArduPilot powered vehicles. It provides easy and straightforward usage for beginners, while still delivering high end feature support for experienced users.
 

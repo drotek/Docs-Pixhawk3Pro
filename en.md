@@ -1,4 +1,4 @@
-# introduction
+# INTRODUCTION
 
 **FMUv4-PRO** takes input from all of the Pixhawk stakeholders; end users, developers, researchers and manufacturing partners. Goals for this iteration of the platform are:
 
