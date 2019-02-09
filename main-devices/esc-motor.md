@@ -10,7 +10,7 @@ The Pixhawk 3 Pro has **8 PWM outputs** for 8 ESC / Motor pairs.
 
 Please connect each of your PWM ESCs to the corresponding "**Main Out**" output. Refer to the diagram below for the order of your ESC / Motor.
 
-![](../.gitbook/assets/esc-doc-drotek.jpg)
+![](../.gitbook/assets/esc-doc-drotek.png)
 
 ![Motors\_Wiring pixhawk by drotek](https://drotek.com/wp-content/uploads/2017/01/Motors_Wiring-700x744.jpg)
 
