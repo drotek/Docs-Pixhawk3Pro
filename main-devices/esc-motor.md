@@ -1,6 +1,6 @@
 # esc-motor
 
-![](../.gitbook/assets/esc-solo-drotek.jpg)
+![](../.gitbook/assets/esc-solo-drotek.png)
 
 The **ESC** \(Electronic Speed Controller\) allows the speed control of the motors according to the orders of the flight controller. Typically the control signal used by the ESCs is a PWM \(Pulse Width Modulation\) but some models allow the use of **I2C** or **CAN** signals.
 
