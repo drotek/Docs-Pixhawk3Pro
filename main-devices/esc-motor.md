@@ -1,6 +1,6 @@
 # esc-motor
 
-![ESC T-motor drotek](https://drotek.com/wp-content/uploads/2017/01/DSC02089-1-700x258.jpg)
+![](../.gitbook/assets/esc-solo-drotek.jpg)
 
 The **ESC** \(Electronic Speed Controller\) allows the speed control of the motors according to the orders of the flight controller. Typically the control signal used by the ESCs is a PWM \(Pulse Width Modulation\) but some models allow the use of **I2C** or **CAN** signals.
 
@@ -10,7 +10,7 @@ The Pixhawk 3 Pro has **8 PWM outputs** for 8 ESC / Motor pairs.
 
 Please connect each of your PWM ESCs to the corresponding "**Main Out**" output. Refer to the diagram below for the order of your ESC / Motor.
 
-![esc tmotor drotek](https://drotek.com/wp-content/uploads/2017/01/DSC02091-1-700x380.jpg)
+![](../.gitbook/assets/esc-doc-drotek.jpg)
 
 ![Motors\_Wiring pixhawk by drotek](https://drotek.com/wp-content/uploads/2017/01/Motors_Wiring-700x744.jpg)
 
