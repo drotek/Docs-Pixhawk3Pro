@@ -14,7 +14,7 @@ You will find more information on [this page](https://store.drotek.com/power-sup
 
 Please connect the power module to the "**Power 1**" port on the Pixhawk.
 
-![tiny power module PX4 ardupilot](https://drotek.com/wp-content/uploads/2017/01/DSC02053-700x393.jpg)
+![](../../.gitbook/assets/pixhawk-plug-to-current-voltage-mounted-drotek.png)
 
 For redundancy, it is possible to use a second module with another battery, all connected to the port "**Power 2**" of the Pixhawk.
 
