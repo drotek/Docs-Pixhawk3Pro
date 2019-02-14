@@ -1,4 +1,4 @@
-# tiny-module
+# Tiny-module
 
 ![alimentation pixhawk drotek](https://drotek.com/wp-content/uploads/2017/01/module-d-alimentation-53v-capteur-couranttension.jpg)
 
