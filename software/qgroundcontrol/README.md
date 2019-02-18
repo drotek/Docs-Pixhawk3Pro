@@ -14,3 +14,7 @@ _QGroundControl_ provides full flight control and vehicle setup for PX4 or ArduP
 
 ![](https://github.com/drotek/Docs-Pixhawk3Pro/blob/master/images/mockupqgroundcountrol.png?raw=true)
 
+QGroundControl is compatible with different platforms such as Windows, Mac OS X, Linux, iOS, Android.
+
+The current stable release of GGroundControl is available [here](https://docs.qgroundcontrol.com/en/getting_started/download_and_install.html).
+

@@ -9,7 +9,6 @@
 * [Software](software/README.md)
   * [QGroundcontrol](software/qgroundcontrol/README.md)
     * [safety switch](software/qgroundcontrol/safety-switch.md)
-    * [download](software/qgroundcontrol/download.md)
 * [Main Devices](main-devices/README.md)
   * [radio-receiver](main-devices/radio-receiver.md)
   * [power-supply](main-devices/power-supply/README.md)
