@@ -6,6 +6,8 @@ The **ESC** \(Electronic Speed Controller\) allows the speed control of the moto
 
 The Pixhawk 3 Pro has **8 PWM outputs** for 8 ESC / Motor pairs.
 
+[Get more information and shop here.](https://store.drotek.com/air-esc-15a-opto-t-motor)
+
 ## HARDWARE
 
 Please connect each of your PWM ESCs to the corresponding "**Main Out**" output. Refer to the diagram below for the order of your ESC / Motor.

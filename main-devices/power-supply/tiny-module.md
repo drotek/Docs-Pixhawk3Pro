@@ -8,7 +8,7 @@ It is also able to measure the overall consumption of your system using its **Ha
 
 The module is equipped with a **LED** indicator to warn you if there is a power problem.
 
-You will find more information on [this page](https://store.drotek.com/power-supply/806-612-voltage-current-power-supply.html#/133-dropix_option-100a).
+You will find more information on [this page](https://store.drotek.com/voltage-current-power-supply).
 
 ## HARDWARE
 

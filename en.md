@@ -31,5 +31,5 @@
 * FrSky Inverter
 * JST GH user-friendly connectors
 
-\*\*\*\*
+[Get more information about this product and shop here.](https://store.drotek.com/pixhawk-pro-autopilot)
 

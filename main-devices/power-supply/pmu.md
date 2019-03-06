@@ -2,7 +2,7 @@
 
 ![](../../.gitbook/assets/pmu.png)
 
-Along with the numerous drone parts Drotek is selling, Drotek has developed a couple of boards related to the power management operation inside of embedded electronics in general. At the end of this year 2017, Drotek created [a new power management unit](https://store.drotek.com/pixhawk-3-pro/890-power-management-unit-pro-8944595120663.html), built to provide a solid and reliable power supply for as many projects as possible.
+Along with the numerous drone parts Drotek is selling, Drotek has developed a couple of boards related to the power management operation inside of embedded electronics in general. At the end of this year 2017, Drotek created a [new power management unit,](https://store.drotek.com/power-management-unit-pro) built to provide a solid and reliable power supply for as many projects as possible.
 
 Designed to perform with drones, it is plug-and-play with the Pixhawk 3 PRO autopilot that Drotek released the same year.
 

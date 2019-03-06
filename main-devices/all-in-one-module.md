@@ -2,7 +2,9 @@
 
 ![allinone pixhawk by Drotek](https://drotek.com/wp-content/uploads/2017/01/DSC02075.jpg)
 
-[All-in-One module](https://store.drotek.com/accessories/819-all-in-one-module-8944595119797.html) integrates the **buzzer**, **USB** port and **LED** indicator. This provides a cleaner installation on your drone and thus simplifies integration.
+All-in-One module integrates the **buzzer**, **USB** port and **LED** indicator. This provides a cleaner installation on your drone and thus simplifies integration.
+
+[Get more information about this product and shop here](https://store.drotek.com/all-in-one-Pixhawk).
 
 The module allows you to configure the Pixhawk via an external USB. This becomes essential when the flight controller is hidden in your drone.
 
@@ -14,7 +16,7 @@ The buzzer is used to inform the system status, the same way as LEDs do, but wit
 
 You can listen all tunes on this [site](http://copter.ardupilot.com/wiki/common-sounds-pixhawkpx4/).
 
-How to plug the All-in-One module to the Pixhawk 3 Pro:
+## How to plug the All-in-One module to the Pixhawk 3 Pro
 
 ![all-in-one Pixhawk 3 pro](https://drotek.com/wp-content/uploads/2017/01/DSC02045-1.jpg)
 
