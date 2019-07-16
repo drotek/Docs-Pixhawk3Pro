@@ -14,8 +14,6 @@ Please connect each of your PWM ESCs to the corresponding "**Main Out**" output.
 
 ![](../.gitbook/assets/esc-doc-drotek.png)
 
-![Motors\_Wiring pixhawk by drotek](https://drotek.com/wp-content/uploads/2017/01/Motors_Wiring-700x744.jpg)
-
 All blue motors should only be used with CCW propellers. Green motors with CW propellers.
 
 To see what a CCW propeller looks like, please see the previous picture.

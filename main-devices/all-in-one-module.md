@@ -1,6 +1,6 @@
 # all-in-one module
 
-![allinone pixhawk by Drotek](https://drotek.com/wp-content/uploads/2017/01/DSC02075.jpg)
+![](../.gitbook/assets/module-all-in-one.png)
 
 All-in-One module integrates the **buzzer**, **USB** port and **LED** indicator. This provides a cleaner installation on your drone and thus simplifies integration.
 
@@ -18,5 +18,5 @@ You can listen all tunes on this [site](http://copter.ardupilot.com/wiki/common-
 
 ## How to plug the All-in-One module to the Pixhawk 3 Pro
 
-![all-in-one Pixhawk 3 pro](https://drotek.com/wp-content/uploads/2017/01/DSC02045-1.jpg)
+![](../.gitbook/assets/images.jpeg)
 

@@ -12,8 +12,6 @@ You will find more information on this [page](https://drotek.gitbooks.io/power-m
 
 To configure your Tiny module under QgroundControl, go to the "Power" configuration window.
 
-![GGC PX4 pixhawk](https://drotek.com/wp-content/uploads/2017/01/Menu_Power_QGC.png)![GGC PX4 pixhawk](https://drotek.com/wp-content/uploads/2017/01/Window_Power_QGC-700x592.png)
-
 * Number of Cells \(in Series\): enter here the number of cells in your lipo battery, this parameter is indicated on your battery by the words 3S, 4S ......
 * Full Voltage \(per cell\): leave this parameter by default `4.05`
 * Empty Voltage \(per cell\): leave this parameter by default `3.40`
