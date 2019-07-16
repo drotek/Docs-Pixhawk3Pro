@@ -1,6 +1,6 @@
 # Tiny-module
 
-![alimentation pixhawk drotek](https://drotek.com/wp-content/uploads/2017/01/module-d-alimentation-53v-capteur-couranttension.jpg)
+![](../../.gitbook/assets/assets_-lu5o-ac6o-jipveypks_-lyhqv_iflhs8kk_23eb_-lyhqykudv4jyyo4efou_pixhawk-plug-to-current-voltag.png)
 
 This module is used to power the **Pixhawk 3 Pro** autopilot with a stabilized voltage.
 
@@ -23,8 +23,6 @@ In this case, the autopilot uses only the first module for its own power supply.
 ## SOFTWARE
 
 To configure your Tiny module under QgroundControl, go to the "Power" configuration window.
-
-![GGC PX4 pixhawk](https://drotek.com/wp-content/uploads/2017/01/Menu_Power_QGC.png)![GGC PX4 pixhawk](https://drotek.com/wp-content/uploads/2017/01/Window_Power_QGC-700x592.png)
 
 * Number of Cells \(in Series\): enter here the number of cells in your lipo battery, this parameter is indicated on your battery by the words 3S, 4S ......
 * Full Voltage \(per cell\): leave this parameter by default `4.05`
